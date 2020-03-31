@@ -2,7 +2,7 @@
 # encoding=utf-8
 # -------------------------------------------------------------------------------
 # Name:        sjPomotodo
-# Purpose:      python client for pomotodo
+# Purpose:      python client for pomotodo.py
 #
 # Author:      thomas
 #
@@ -17,6 +17,8 @@ import getopt
 import sys
 from datetime import datetime
 
+import pomotodo
+
 
 def help(cmd):
     print "%s --token $token [--date $date]" % cmd
@@ -27,6 +29,9 @@ def help(cmd):
 
 def do_main(token, date):
     print "do_main('%s', '%s')" % (token, str(date))
+
+    res = pomotodo.get_pomos(token, date)
+    print res
     pass
 
 
