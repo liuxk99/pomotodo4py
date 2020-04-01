@@ -79,7 +79,7 @@ if __name__ == '__main__':
     # print args
     token = None
     started_later_than_dt = datetime_utils.utc_today()
-    started_earlier_than = started_later_than_dt
+    started_earlier_than = None
 
     for opt, arg in opts:
         if opt in '--token':
