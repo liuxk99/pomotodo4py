@@ -38,24 +38,24 @@ def do_main(token, started_later_than_dt, started_earlier_than = None):
     for e in json_items:
         pomos.append(Pomo.from_json(e))
 
-    print "%d pomos" % len(pomos)
-    for pomo in pomos:
-        print pomo
+    # print "%d pomos" % len(pomos)
+    # for pomo in pomos:
+    #     print pomo
 
-    # activities = []
-    # for e in json_items:
-    #     activities.append(Activity.from_json(e))
-    #
-    # json_items = pomotodo.get_pomos(token, started_later_than_dt, started_earlier_than)
-    # for e in json_items:
-    #     activities.append(Activity.from_json(e))
-    #
-    # activities.sort(key=Activity.started_time_key)
-    # print "total %d activities" % len(activities)
-    # for e in activities:
-    #     print e
-    #
-    # export_file(activities, "trello.md", "YNote.md")
+    activities = []
+    for e in json_items:
+        activities.append(Activity.from_json(e))
+
+    json_items = pomotodo.get_pomos(token, started_later_than_dt, started_earlier_than)
+    for e in json_items:
+        activities.append(Activity.from_json(e))
+
+    activities.sort(key=Activity.started_time_key)
+    print "total %d activities" % len(activities)
+    for e in activities:
+        print e
+
+    export_file(activities, "trello.md", "YNote.md")
     pass
 
 
