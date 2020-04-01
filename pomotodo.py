@@ -10,16 +10,20 @@
 # Licence:     <your licence>
 # coding=utf-8
 # -------------------------------------------------------------------------------
-from datetime import timedelta
 
 import requests
 
 API_URL = 'https://api.pomotodo.com/1/pomos'
 
 
-def get_pomos(token, dt):
-    mydt = dt - timedelta(days=1)
+def get_pomos(token, started_later_than_dt, started_earlier_than=None, manual=False):
     headers = {'Authorization': 'token ' + token}
-    parameters = {'started_later_than': mydt.strftime("%Y-%m-%dT%H:%M:%S.%fZ")}
+    parameters = {'started_later_than': started_later_than_dt.strftime("%Y-%m-%dT%H:%M:%S.%fZ"), 'limit': "100"}
+    if started_earlier_than:
+        parameters['started_earlier_than'] = started_earlier_than.strftime("%Y-%m-%dT%H:%M:%S.%fZ")
+    if manual:
+        parameters['manual'] = "true"
+
+    print parameters
     result = requests.get(API_URL, headers=headers, params=parameters)
     return result.json()

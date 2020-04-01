@@ -15,9 +15,11 @@
 # if not called as a module
 import getopt
 import sys
-from datetime import datetime
 
+import datetime_utils
 import pomotodo
+from activity import Activity, export_file
+from pomo import Pomo
 
 
 def help(cmd):
@@ -27,11 +29,33 @@ def help(cmd):
     pass
 
 
-def do_main(token, date):
-    print "do_main('%s', '%s')" % (token, str(date))
+def do_main(token, started_later_than_dt, started_earlier_than = None):
+    print "do_main('%s', '%s~%s')" % (token, str(started_later_than_dt), str(started_earlier_than))
 
-    res = pomotodo.get_pomos(token, date)
-    print res
+    json_items = pomotodo.get_pomos(token, started_later_than_dt, started_earlier_than, True)
+
+    pomos = []
+    for e in json_items:
+        pomos.append(Pomo.from_json(e))
+
+    print "%d pomos" % len(pomos)
+    for pomo in pomos:
+        print pomo
+
+    # activities = []
+    # for e in json_items:
+    #     activities.append(Activity.from_json(e))
+    #
+    # json_items = pomotodo.get_pomos(token, started_later_than_dt, started_earlier_than)
+    # for e in json_items:
+    #     activities.append(Activity.from_json(e))
+    #
+    # activities.sort(key=Activity.started_time_key)
+    # print "total %d activities" % len(activities)
+    # for e in activities:
+    #     print e
+    #
+    # export_file(activities, "trello.md", "YNote.md")
     pass
 
 
@@ -46,7 +70,7 @@ if __name__ == '__main__':
     # parse parameters
     opts = []
     try:
-        opts, arg = getopt.getopt(sys.argv[1:], "t:d:", ["help", "date=", "token="])
+        opts, arg = getopt.getopt(sys.argv[1:], "t:d:", ["help", "token=", "started_later_than=", "started_earlier_than="])
     except getopt.GetoptError:
         print("syntax error")
         help(exec_cmd)
@@ -54,17 +78,23 @@ if __name__ == '__main__':
     # print opts
     # print args
     token = None
-    date = datetime.now()
+    started_later_than_dt = datetime_utils.utc_today()
+    started_earlier_than = started_later_than_dt
+
     for opt, arg in opts:
         if opt in '--token':
             token = arg
-        elif opt in '--date':
-            date = arg
+        elif opt in '--started_later_than':
+            dt = datetime_utils.from_iso8601(arg)
+            started_later_than_dt = datetime_utils.to_utc(dt)
+        elif opt in '--started_earlier_than':
+            dt = datetime_utils.from_iso8601(arg)
+            started_earlier_than = datetime_utils.to_utc(dt)
         elif opt in '--help':
             help(exec_cmd)
 
     if token is None:
         print("syntax error")
 
-    do_main(token, date)
+    do_main(token, started_later_than_dt, started_earlier_than)
     pass

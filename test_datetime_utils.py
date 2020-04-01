@@ -25,17 +25,15 @@ class Test(TestCase):
     def test_parser(self):
         day = "2020-03-31T00:00:00+08:00"
         local_dt = datetime_utils.from_iso8601(day)
-        print "local datetime: " + local_dt.isoformat()
+        print local_dt.__class__
+        print "1-local datetime: " + local_dt.isoformat()
 
-        from dateutil import tz
-        utc_tz = tz.gettz('UTC')
-        utc_dt = local_dt.astimezone(utc_tz)
-        print "utc datetime: " + utc_dt.isoformat()
+        utc_dt = datetime_utils.to_utc(local_dt)
+        print "2-utc datetime: " + utc_dt.isoformat()
         print utc_dt.strftime("%Y-%m-%dT%H:%M:%S.%fZ")
 
-        local_tz = tz.tzlocal()
-        dt = utc_dt.astimezone(local_tz)
-        print "new datetime: " + dt.isoformat()
+        dt = datetime_utils.to_local(utc_dt)
+        print "3-new datetime: " + dt.isoformat()
 
         pass
 
@@ -54,4 +52,9 @@ class Test(TestCase):
         print datetime(2017, 6, 9).isoformat()
         print datetime(2017, 6, 9, tzinfo=tz.tz.gettz('UTC')).isoformat()
         # '2017-06-09T00:00:00+00:00'
+        pass
+
+    def test_utc_today(self):
+        dt = datetime_utils.utc_today()
+        print dt
         pass
