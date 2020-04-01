@@ -81,13 +81,11 @@ def export_file(activities, md_file, note_file):
     out_md = codecs.open(md_file, 'w', 'utf-8-sig')
     out_note = codecs.open(note_file, 'w', 'utf-8-sig')
 
-    i = 0
     for activity in activities:
-        if i > 0:
-            # print activity.to_markdown()
-            out_md.write(activity.to_markdown().decode('utf-8'))
-            out_note.write(activity.to_YNoteMarkdown().decode('utf-8'))
-        i = i + 1
+        # print activity.to_markdown()
+        out_md.write(activity.to_markdown().decode('utf-8'))
+        out_note.write(activity.to_YNoteMarkdown().decode('utf-8'))
+
     out_md.close()
     out_note.close()
 
