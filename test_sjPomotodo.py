@@ -4,9 +4,31 @@ from datetime import timedelta
 import datetime_utils
 import sjPomotodo
 
-
 class MyTestCase(unittest.TestCase):
-    token = 'EfzKWdKsOpyarbiJIf6e7Nm3BTd6NLVm8pkev57M4kIZlTbNnt7RTQzGC74DHxLJLNdhNzyUwas1YkO0yjzcT5OZ1xyD2Jx0'
+    token = None
+
+    def setUp(self):
+        super(MyTestCase, self).setUp()
+
+        separator = "="
+        keys = {}
+
+        # I named your file conf and stored it
+        # in the same directory as the script
+        with open('pomotodo.properties') as f:
+
+            for line in f:
+                if separator in line:
+                    # Find the name and value by splitting the string
+                    name, value = line.split(separator, 1)
+
+                    # Assign key value pair to dict
+                    # strip() removes white space from the ends of strings
+                    keys[name.strip()] = value.strip()
+
+        print(keys)
+        self.token = keys['token']
+        pass
 
     def test_pomotodo_yesterday(self):
         started_earlier_than = datetime_utils.utc_today()
@@ -24,6 +46,7 @@ class MyTestCase(unittest.TestCase):
 
         # self.assertEqual(True, False)
         pass
+
 
 if __name__ == '__main__':
     unittest.main()
