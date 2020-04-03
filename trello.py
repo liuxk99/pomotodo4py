@@ -181,4 +181,6 @@ trello_dict = {
     u"#SW/Service 'Pomotodo'·文档": "https://trello.com/c/vBQvkyfy",
     u"#ADE(Python)/Lib 'datetime'·api": "https://trello.com/c/SyByRI1W",
     u"#ADE(Python)/feature 'datetime'": "https://trello.com/c/SyByRI1W",
+    u"#SDE(Android)/AAF 'service(dropbox)'·参考": "https://trello.com/c/gIl8250I",
+    u"#ADE(Java)/Lib 'properties'·参考": "https://trello.com/c/ZVS64xkh",
 }
