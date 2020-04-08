@@ -183,4 +183,6 @@ trello_dict = {
     u"#ADE(Python)/feature 'datetime'": "https://trello.com/c/SyByRI1W",
     u"#SDE(Android)/AAF 'service(dropbox)'·参考": "https://trello.com/c/gIl8250I",
     u"#ADE(Java)/Lib 'properties'·参考": "https://trello.com/c/ZVS64xkh",
+    u"#公司(乐融)/管理 '休假'·法定年假": "https://trello.com/c/IwnTjw5z",
+    u"#SDE(Android)/DevEnv 'mstar848'·sync": "https://trello.com/c/UtU1TEdj",
 }
