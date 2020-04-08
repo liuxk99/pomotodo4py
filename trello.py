@@ -185,4 +185,6 @@ trello_dict = {
     u"#ADE(Java)/Lib 'properties'·参考": "https://trello.com/c/ZVS64xkh",
     u"#公司(乐融)/管理 '休假'·法定年假": "https://trello.com/c/IwnTjw5z",
     u"#SDE(Android)/DevEnv 'mstar848'·sync": "https://trello.com/c/UtU1TEdj",
+    u"#生活/用 '冰箱(西门子)'·除冰": "https://trello.com/c/qjQY6i53",
+    u"#社交/亲/子(刘枢鸿) '教育·领书'": "https://trello.com/c/0OPhIdEd",
 }
