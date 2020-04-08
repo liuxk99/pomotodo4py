@@ -188,4 +188,6 @@ trello_dict = {
     u"#生活/用 '冰箱(西门子)'·除冰": "https://trello.com/c/qjQY6i53",
     u"#社交/亲/子(刘枢鸿) '教育·领书'": "https://trello.com/c/0OPhIdEd",
     u"#生活/游 '爬山(百望山森林公园)'": "https://trello.com/c/dhBndhGu",
+    u"#生活/行/车(比亚迪·秦) '洗车'": "https://trello.com/c/q2qvzvKo",
+    u"#生命/健康/医疗 '医院(北京市顺义区妇幼保健院)'": "https://trello.com/c/8akTUVI1",
 }

@@ -15,6 +15,7 @@
 # if not called as a module
 import getopt
 import sys
+from datetime import timedelta
 
 import datetime_utils
 import pomotodo
@@ -23,7 +24,9 @@ from pomo import Pomo
 
 
 def help(cmd):
-    print "%s --token $token [--date $date]" % cmd
+    print "%s --token=$token " \
+          "(--started_later_than=$(iso8601-date) [--started_earlier_than=$(iso8601-date])|--date $(iso8601-date)"\
+          % cmd
     sys.exit(1)
 
     pass
@@ -70,7 +73,9 @@ if __name__ == '__main__':
     # parse parameters
     opts = []
     try:
-        opts, arg = getopt.getopt(sys.argv[1:], "t:d:", ["help", "token=", "started_later_than=", "started_earlier_than="])
+        opts, arg = getopt.getopt(sys.argv[1:], "t:d:",
+                                  ["help", "token=", "started_later_than=", "started_earlier_than=",
+                                   "date="])
     except getopt.GetoptError:
         print("syntax error")
         help(exec_cmd)
@@ -85,11 +90,15 @@ if __name__ == '__main__':
         if opt in '--token':
             token = arg
         elif opt in '--started_later_than':
-            dt = datetime_utils.from_iso8601(arg)
-            started_later_than_dt = datetime_utils.to_utc(dt)
+            begin_datetime = datetime_utils.from_iso8601(arg)
+            started_later_than_dt = datetime_utils.to_utc(begin_datetime)
         elif opt in '--started_earlier_than':
-            dt = datetime_utils.from_iso8601(arg)
-            started_earlier_than = datetime_utils.to_utc(dt)
+            end_datetime = datetime_utils.from_iso8601(arg)
+            started_earlier_than = datetime_utils.to_utc(end_datetime)
+        elif opt in '--date':
+            begin_datetime = datetime_utils.from_iso8601(arg)
+            started_later_than_dt = datetime_utils.to_utc(begin_datetime)
+            started_earlier_than = started_later_than_dt + timedelta(days=1)
         elif opt in '--help':
             help(exec_cmd)
 
