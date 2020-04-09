@@ -4,6 +4,7 @@ from datetime import timedelta
 import datetime_utils
 import sjPomotodo
 
+
 class MyTestCase(unittest.TestCase):
     token = None
 
@@ -43,6 +44,16 @@ class MyTestCase(unittest.TestCase):
         started_later_than = datetime_utils.utc_today()
 
         sjPomotodo.do_main(self.token, started_later_than)
+
+        # self.assertEqual(True, False)
+        pass
+
+    def test_pomotodo_date(self):
+        day_dt = datetime_utils.from_iso8601("2020-04-07T00:00:00+0800")
+        started_later_than = datetime_utils.to_utc(day_dt)
+        started_earlier_than = started_later_than + timedelta(days=1)
+
+        sjPomotodo.do_main(self.token, started_later_than, started_earlier_than)
 
         # self.assertEqual(True, False)
         pass
