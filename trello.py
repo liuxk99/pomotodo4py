@@ -199,4 +199,6 @@ trello_dict = {
     u"#ADE(Java)/Lib 'Retrofit'": "https://trello.com/c/qRZbMEMP",
     u"#生活/行/车(福特·蒙迪欧) '保养'": "https://trello.com/c/aaVHjWWy",
     u"#软件/应用 'du4j'": "https://trello.com/c/zvT0qWuT",
+    u"#SDE(Android)/DTC 'idegen'·参考": "https://trello.com/c/HiczDXCf",
+    u"#SDE(Android)/DevEnv 'AmlT972'·build": "https://trello.com/c/Qe5tiBq1",
 }
