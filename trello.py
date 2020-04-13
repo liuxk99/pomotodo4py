@@ -197,4 +197,6 @@ trello_dict = {
     u"#软件/应用 'pomotodo4j'": "https://trello.com/c/bXlN9yqD",
     u"#生活/购/超市 '物美超市(潞苑南大街店)'": "https://trello.com/c/r3ahhSSc",
     u"#ADE(Java)/Lib 'Retrofit'": "https://trello.com/c/qRZbMEMP",
+    u"#生活/行/车(福特·蒙迪欧) '保养'": "https://trello.com/c/aaVHjWWy",
+    u"#软件/应用 'du4j'": "https://trello.com/c/zvT0qWuT",
 }
