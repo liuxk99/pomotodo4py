@@ -191,4 +191,7 @@ trello_dict = {
     u"#生活/行/车(比亚迪·秦) '洗车'": "https://trello.com/c/q2qvzvKo",
     u"#生命/健康/医疗 '医院(北京市顺义区妇幼保健院)'": "https://trello.com/c/8akTUVI1",
     u"#生命/健康 '疫情(新冠肺炎)'": "https://trello.com/c/5JcIFEyF",
+    u"#生命/健康 '就诊'·门诊<医院:通州友谊医院; 科室:口腔科> @刘显珂": "https://trello.com/c/zWt3s7sR",
+    u"#生命/健康 '就诊'·资料<医院:通州友谊医院; 科室:口腔科> @刘显珂": "https://trello.com/c/zWt3s7sR",
+    u"#公司(乐融)/管理 '休假'": "https://trello.com/c/IwnTjw5z",
 }
