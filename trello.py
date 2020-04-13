@@ -194,4 +194,7 @@ trello_dict = {
     u"#生命/健康 '就诊'·门诊<医院:通州友谊医院; 科室:口腔科> @刘显珂": "https://trello.com/c/zWt3s7sR",
     u"#生命/健康 '就诊'·资料<医院:通州友谊医院; 科室:口腔科> @刘显珂": "https://trello.com/c/zWt3s7sR",
     u"#公司(乐融)/管理 '休假'": "https://trello.com/c/IwnTjw5z",
+    u"#软件/应用 'pomotodo4j'": "https://trello.com/c/bXlN9yqD",
+    u"#生活/购/超市 '物美超市(潞苑南大街店)'": "https://trello.com/c/r3ahhSSc",
+    u"#ADE(Java)/Lib 'Retrofit'": "https://trello.com/c/qRZbMEMP",
 }
