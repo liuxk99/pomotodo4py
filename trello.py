@@ -201,4 +201,7 @@ trello_dict = {
     u"#软件/应用 'du4j'": "https://trello.com/c/zvT0qWuT",
     u"#SDE(Android)/DTC 'idegen'·参考": "https://trello.com/c/HiczDXCf",
     u"#SDE(Android)/DevEnv 'AmlT972'·build": "https://trello.com/c/Qe5tiBq1",
+    u"#财经/理财 '余额宝'·买入 @周先安": "https://trello.com/c/EKV1VV0i",
+    u"#软件/应用 '12306'": "https://trello.com/c/w29R9eOQ",
+    u"#SDE(Android)/DevEnv 'AmlT920L'": "https://trello.com/c/9Jh2OQu8",
 }
