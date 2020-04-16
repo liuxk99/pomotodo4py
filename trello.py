@@ -207,4 +207,5 @@ trello_dict = {
     u"#财经 '理财'·买入 @刘先付": "https://trello.com/c/IeElwCXa",
     u"#软件/工具 'repos'": "https://trello.com/c/0NMNN3IT",
     u"#软件/应用 '永辉生活'": "https://trello.com/c/Kc2pMhzU",
+    u"#产品(EUI) '特性(安全性)'": "https://trello.com/c/AoiZQZO2",
 }
