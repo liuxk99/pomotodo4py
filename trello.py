@@ -208,4 +208,6 @@ trello_dict = {
     u"#软件/工具 'repos'": "https://trello.com/c/0NMNN3IT",
     u"#软件/应用 '永辉生活'": "https://trello.com/c/Kc2pMhzU",
     u"#产品(EUI) '特性(安全性)'": "https://trello.com/c/AoiZQZO2",
+    u"#软件/应用 '北京市网上税务局（自然人版）'": "https://trello.com/c/Ks3F9Tbn",
+    u"#社会/管理/税务 '北京市税务局'": "https://trello.com/c/FMEwaEwD",
 }
