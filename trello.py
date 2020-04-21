@@ -210,4 +210,6 @@ trello_dict = {
     u"#产品(EUI) '特性(安全性)'": "https://trello.com/c/AoiZQZO2",
     u"#软件/应用 '北京市网上税务局（自然人版）'": "https://trello.com/c/Ks3F9Tbn",
     u"#社会/管理/税务 '北京市税务局'": "https://trello.com/c/FMEwaEwD",
+    u"#SW/Service/network 'Shadowsocks'·更换IP": "https://trello.com/c/b6G7xajP",
+    u"#SW/Web浏览器 'Chrome'·Issue": "https://trello.com/c/x7H5hwJa",
 }
