@@ -215,4 +215,5 @@ trello_dict = {
     u"#预测 '占卜<主题:": "https://trello.com/c/htzmnSEq",
     u"#社交/亲/子(刘枢鸿) '体育'": "https://trello.com/c/2m2oNXDb",
     u"#人文/法律/合同 '劳动合同": "https://trello.com/c/k2Llme1K",
+    u"#公司(乐视)/管理 '人事'": "https://trello.com/c/6Fc3wAAT",
 }
