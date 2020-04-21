@@ -212,4 +212,7 @@ trello_dict = {
     u"#社会/管理/税务 '北京市税务局'": "https://trello.com/c/FMEwaEwD",
     u"#SW/Service/network 'Shadowsocks'·更换IP": "https://trello.com/c/b6G7xajP",
     u"#SW/Web浏览器 'Chrome'·Issue": "https://trello.com/c/x7H5hwJa",
+    u"#预测 '占卜<主题:": "https://trello.com/c/htzmnSEq",
+    u"#社交/亲/子(刘枢鸿) '体育'": "https://trello.com/c/2m2oNXDb",
+    u"#人文/法律/合同 '劳动合同": "https://trello.com/c/k2Llme1K",
 }
