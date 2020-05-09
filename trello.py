@@ -221,4 +221,6 @@ trello_dict = {
     u"#SDE(Android)/DevEnv 'mstar918'": "https://trello.com/c/PuKlxRID",
     u"#SDE(Android)/DevEnv 'AmlT972'": "https://trello.com/c/Qe5tiBq1",
     u"#DMS(乐视) 'JIRA(EUISIX-9676)'·调查": "https://trello.com/c/9JYIaKdH",
+    u"#软件/工具 'dev-env-tools'": "https://trello.com/c/0NMNN3IT",
+    u"#DMS(乐视) 'EUISIX-8886'": "https://trello.com/c/b02JciTw",
 }
