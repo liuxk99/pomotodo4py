@@ -220,4 +220,5 @@ trello_dict = {
     u"#DMS(乐视) 'JIRA(HERA-3709)'·调查": "https://trello.com/c/6Asjg018",
     u"#SDE(Android)/DevEnv 'mstar918'": "https://trello.com/c/PuKlxRID",
     u"#SDE(Android)/DevEnv 'AmlT972'": "https://trello.com/c/Qe5tiBq1",
+    u"#DMS(乐视) 'JIRA(EUISIX-9676)'·调查": "https://trello.com/c/9JYIaKdH",
 }
