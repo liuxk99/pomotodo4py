@@ -223,4 +223,6 @@ trello_dict = {
     u"#DMS(乐视) 'JIRA(EUISIX-9676)'·调查": "https://trello.com/c/9JYIaKdH",
     u"#软件/工具 'dev-env-tools'": "https://trello.com/c/0NMNN3IT",
     u"#DMS(乐视) 'EUISIX-8886'": "https://trello.com/c/b02JciTw",
+    u"#Programmer/DTC 'Compiler(aarch64-linux-gnu-gcc)'": "https://trello.com/c/a8VFZkBU",
+    u"#SDE(Android)/AAF 'service(mount)'": "https://trello.com/c/VHAUGlsC",
 }
