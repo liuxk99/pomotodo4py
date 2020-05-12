@@ -243,4 +243,5 @@ trello_dict = {
     u"#生命/健康 '门诊'·就诊 @陈霞": "https://trello.com/c/gi6S9qbW",
     u"#生命/健康/医药 '购物'": "https://trello.com/c/7DXr9BNT",
     u"#项目(TV)/平台 'AmlT920L'": "https://trello.com/c/FmOuaZ3w",
+    u"#生活/用 '电动吸奶器'·说明书": "https://trello.com/c/OVKTQqtJ",
 }
