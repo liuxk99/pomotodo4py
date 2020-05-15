@@ -244,4 +244,8 @@ trello_dict = {
     u"#生命/健康/医药 '购物'": "https://trello.com/c/7DXr9BNT",
     u"#项目(TV)/平台 'AmlT920L'": "https://trello.com/c/FmOuaZ3w",
     u"#生活/用 '电动吸奶器'·说明书": "https://trello.com/c/OVKTQqtJ",
+    u"#生活/住/房(珠江丽景家园) '中水'": "https://trello.com/c/RHzxJO9L",
+    u"#生活/住/房(珠江丽景家园) '自来水'": "https://trello.com/c/q5jKdwZi",
+    u"#生活/住/房(珠江丽景家园) '天然气'": "https://trello.com/c/RC6jDcv8",
+    u"#软件/应用 '扇贝单词'": "https://trello.com/c/wS3wxmco",
 }
