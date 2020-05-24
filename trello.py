@@ -248,4 +248,8 @@ trello_dict = {
     u"#生活/住/房(珠江丽景家园) '自来水'": "https://trello.com/c/q5jKdwZi",
     u"#生活/住/房(珠江丽景家园) '天然气'": "https://trello.com/c/RC6jDcv8",
     u"#软件/应用 '扇贝单词'": "https://trello.com/c/wS3wxmco",
+    u"#生命/健康(刘枢睽) '就诊'·": "https://trello.com/c/sQ5gs26h",
+    u"#软件/应用 '企业微信'·": "https://trello.com/c/TV3QIsUG",
+    u"#软件/应用 '一起小学学生'·": "https://trello.com/c/XEyeJu9w",
+    u"#生命/健康 '药(酒精消毒液)'·": "https://trello.com/c/ub5JLFoo",
 }
