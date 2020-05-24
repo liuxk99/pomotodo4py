@@ -252,4 +252,6 @@ trello_dict = {
     u"#软件/应用 '企业微信'·": "https://trello.com/c/TV3QIsUG",
     u"#软件/应用 '一起小学学生'·": "https://trello.com/c/XEyeJu9w",
     u"#生命/健康 '药(酒精消毒液)'·": "https://trello.com/c/ub5JLFoo",
+    u"#社会/证件 '出生医学证明'@刘枢睽": "https://trello.com/c/QE4rjHiG",
+    u"#生命/健康/医疗 '医院(永顺社区卫生服务中心)'·": "https://trello.com/c/Zi5lMVyS",
 }
