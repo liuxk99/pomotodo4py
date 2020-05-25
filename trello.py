@@ -232,4 +232,5 @@ trello_dict = {
     u"#财经/保险 '新生儿医保'": "https://trello.com/c/k2HpWfwM",
     u"#文档/电子化 '整理'": "https://trello.com/c/IAVqIlkj",
     u"#生活/用 '托运'": "https://trello.com/c/L7atvHX1",
+    u"#生活/食 '锅盔'": "https://trello.com/c/uVZ6x35r",
 }
