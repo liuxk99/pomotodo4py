@@ -227,4 +227,7 @@ trello_dict = {
     u"#SDE(Android)/AAF 'service(mount)'": "https://trello.com/c/VHAUGlsC",
     u"#SDE(Android)/DevEnv 'AOSP'·Issue": "https://trello.com/c/wNUOc0Rh",
     u"#生活/行 '火车'·接站": "https://trello.com/c/Iyb1TMaN",
+    u"#Programmer/DTC/CM 'repo'": "https://trello.com/c/hdeCaiXE",
+    u"#生命/健康(刘枢睽) '住院'": "https://trello.com/c/sE4eEaJg",
+    u"#财经/保险 '新生儿医保'": "https://trello.com/c/k2HpWfwM",
 }
