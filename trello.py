@@ -226,4 +226,5 @@ trello_dict = {
     u"#Programmer/DTC 'Compiler(aarch64-linux-gnu-gcc)'": "https://trello.com/c/a8VFZkBU",
     u"#SDE(Android)/AAF 'service(mount)'": "https://trello.com/c/VHAUGlsC",
     u"#SDE(Android)/DevEnv 'AOSP'·Issue": "https://trello.com/c/wNUOc0Rh",
+    u"#生活/行 '火车'·接站": "https://trello.com/c/Iyb1TMaN",
 }
