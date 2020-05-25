@@ -230,4 +230,6 @@ trello_dict = {
     u"#Programmer/DTC/CM 'repo'": "https://trello.com/c/hdeCaiXE",
     u"#生命/健康(刘枢睽) '住院'": "https://trello.com/c/sE4eEaJg",
     u"#财经/保险 '新生儿医保'": "https://trello.com/c/k2HpWfwM",
+    u"#文档/电子化 '整理'": "https://trello.com/c/IAVqIlkj",
+    u"#生活/用 '托运'": "https://trello.com/c/L7atvHX1",
 }
