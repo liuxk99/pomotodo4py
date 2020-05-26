@@ -234,4 +234,7 @@ trello_dict = {
     u"#生活/用 '托运'": "https://trello.com/c/L7atvHX1",
     u"#生活/食 '锅盔'": "https://trello.com/c/uVZ6x35r",
     u"#财经/理财 '达人贷'": "https://trello.com/c/jmc9xgty",
+    u"#软件/应用 '企业微信'": "https://trello.com/c/TV3QIsUG",
+    u"#软件/应用 '一起小学学生'": "https://trello.com/c/XEyeJu9w",
+    u"#生命/健康 '药(酒精消毒液)'": "https://trello.com/c/ub5JLFoo",
 }
