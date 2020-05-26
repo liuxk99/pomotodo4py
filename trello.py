@@ -233,4 +233,5 @@ trello_dict = {
     u"#文档/电子化 '整理'": "https://trello.com/c/IAVqIlkj",
     u"#生活/用 '托运'": "https://trello.com/c/L7atvHX1",
     u"#生活/食 '锅盔'": "https://trello.com/c/uVZ6x35r",
+    u"#财经/理财 '达人贷'": "https://trello.com/c/jmc9xgty",
 }
