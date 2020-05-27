@@ -240,4 +240,6 @@ trello_dict = {
     u"#生活/用 '婴儿推车'": "https://trello.com/c/6AY204bk",
     u"#生活/用 '眼镜'": "https://trello.com/c/cRszyJuT",
     u"#生活/行 '儿童安全座椅'": "https://trello.com/c/BcXIePmg",
+    u"#生命/健康 '门诊'·就诊 @陈霞": "https://trello.com/c/gi6S9qbW",
+    u"#生命/健康/医药 '购物'": "https://trello.com/c/7DXr9BNT",
 }
