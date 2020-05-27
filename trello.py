@@ -239,4 +239,5 @@ trello_dict = {
     u"#生命/健康 '药(酒精消毒液)'": "https://trello.com/c/ub5JLFoo",
     u"#生活/用 '婴儿推车'": "https://trello.com/c/6AY204bk",
     u"#生活/用 '眼镜'": "https://trello.com/c/cRszyJuT",
+    u"#生活/行 '儿童安全座椅'": "https://trello.com/c/BcXIePmg",
 }
