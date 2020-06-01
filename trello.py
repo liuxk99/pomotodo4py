@@ -254,4 +254,6 @@ trello_dict = {
     u"#生命/健康 '药(酒精消毒液)'·": "https://trello.com/c/ub5JLFoo",
     u"#社会/证件 '出生医学证明'@刘枢睽": "https://trello.com/c/QE4rjHiG",
     u"#生命/健康/医疗 '医院(永顺社区卫生服务中心)'·": "https://trello.com/c/Zi5lMVyS",
+    u"#生命/健康 '疾病(软组织肉瘤)'·治疗": "https://trello.com/c/6OmmfJKD",
+    u"#生命/健康 '就诊'·策略 @穆娟": "https://trello.com/c/EORJhKUp",
 }
