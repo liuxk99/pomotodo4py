@@ -256,4 +256,7 @@ trello_dict = {
     u"#生命/健康/医疗 '医院(永顺社区卫生服务中心)'·": "https://trello.com/c/Zi5lMVyS",
     u"#生命/健康 '疾病(软组织肉瘤)'·治疗": "https://trello.com/c/6OmmfJKD",
     u"#生命/健康 '就诊'·策略 @穆娟": "https://trello.com/c/EORJhKUp",
+    u"#社交/亲 '子(刘枢睽)'": "https://trello.com/c/YOTOVVpa",
+    u"#公司(乐视)/IT '密码'": "https://trello.com/c/LKX1YL9o",
+    u"#SW/Service '钉钉'": "https://trello.com/c/Y1j6XqSy",
 }
