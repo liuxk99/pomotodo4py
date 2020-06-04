@@ -262,4 +262,5 @@ trello_dict = {
     u"#生命/健康(刘枢睽) '门诊'": "https://trello.com/c/AMLmyEVQ",
     u"#产品(Amlogic)/feature 'SignalSource'": "https://trello.com/c/Calt8xcm",
     u"#社会/证件 '户口'": "https://trello.com/c/7tpLNgWx",
+    u"#金融/服务/银行(建行) '信用卡'": "https://trello.com/c/nbbmxlyT",
 }
