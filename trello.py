@@ -259,4 +259,7 @@ trello_dict = {
     u"#社交/亲 '子(刘枢睽)'": "https://trello.com/c/YOTOVVpa",
     u"#公司(乐视)/IT '密码'": "https://trello.com/c/LKX1YL9o",
     u"#SW/Service '钉钉'": "https://trello.com/c/Y1j6XqSy",
+    u"#生命/健康(刘枢睽) '门诊'": "https://trello.com/c/AMLmyEVQ",
+    u"#产品(Amlogic)/feature 'SignalSource'": "https://trello.com/c/Calt8xcm",
+    u"#社会/证件 '户口'": "https://trello.com/c/7tpLNgWx",
 }
