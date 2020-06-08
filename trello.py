@@ -266,4 +266,6 @@ trello_dict = {
     u"#产品(Amlogic)/应用 'OTAUpgrade2'": "https://trello.com/c/9RbYPFHd",
     u"#生命/健康/医疗 '检查(穿刺活检)'": "https://trello.com/c/KRvmwH2w",
     u"#社交/同事 '王中一'": "https://trello.com/c/49JcGw89",
+    u"#产品(EUI) '特性(性能)<平台: AmlT920L>'": "https://trello.com/c/A1D91KHp",
+    u"#产品(EUI) '架构(组件)'": "https://trello.com/c/ZmfgE8Y6",
 }
