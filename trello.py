@@ -269,4 +269,6 @@ trello_dict = {
     u"#产品(EUI) '特性(性能)<平台: AmlT920L>'": "https://trello.com/c/A1D91KHp",
     u"#产品(EUI) '架构(组件)'": "https://trello.com/c/ZmfgE8Y6",
     u"#生命/健康(刘显珂) '门诊<医生: 王毅>'": "https://trello.com/c/zWt3s7sR",
+    u"#生活/用 '电风扇'": "https://trello.com/c/KfYMMMAv",
+    u"#生活/用 '秤(华为智能体脂秤)'": "https://trello.com/c/4ZCENHk4",
 }
