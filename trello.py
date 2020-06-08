@@ -263,4 +263,7 @@ trello_dict = {
     u"#产品(Amlogic)/feature 'SignalSource'": "https://trello.com/c/Calt8xcm",
     u"#社会/证件 '户口'": "https://trello.com/c/7tpLNgWx",
     u"#金融/服务/银行(建行) '信用卡'": "https://trello.com/c/nbbmxlyT",
+    u"#产品(Amlogic)/应用 'OTAUpgrade2'": "https://trello.com/c/9RbYPFHd",
+    u"#生命/健康/医疗 '检查(穿刺活检)'": "https://trello.com/c/KRvmwH2w",
+    u"#社交/同事 '王中一'": "https://trello.com/c/49JcGw89",
 }
