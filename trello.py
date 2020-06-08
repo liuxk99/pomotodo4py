@@ -268,4 +268,5 @@ trello_dict = {
     u"#社交/同事 '王中一'": "https://trello.com/c/49JcGw89",
     u"#产品(EUI) '特性(性能)<平台: AmlT920L>'": "https://trello.com/c/A1D91KHp",
     u"#产品(EUI) '架构(组件)'": "https://trello.com/c/ZmfgE8Y6",
+    u"#生命/健康(刘显珂) '门诊<医生: 王毅>'": "https://trello.com/c/zWt3s7sR",
 }
