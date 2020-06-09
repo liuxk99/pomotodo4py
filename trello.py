@@ -272,4 +272,8 @@ trello_dict = {
     u"#生活/用 '电风扇'": "https://trello.com/c/KfYMMMAv",
     u"#生活/用 '秤(华为智能体脂秤)'": "https://trello.com/c/4ZCENHk4",
     u"#社交/亲 '子(刘枢鸿)'": "https://trello.com/c/aEIQsM1k",
+    u"#软件/应用 '北京一卡通'": "https://trello.com/c/veUe8Ata",
+    u"#软件/应用 '中国人保'": "https://trello.com/c/2wyA7oie",
+    u"#软件/应用 '平安健康'": "https://trello.com/c/Hkl5UHut",
+    u"#SDE(Android)/AAF 'AppTransition'": "https://trello.com/c/m3M7h61C",
 }
