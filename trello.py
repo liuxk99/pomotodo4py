@@ -271,4 +271,5 @@ trello_dict = {
     u"#生命/健康(刘显珂) '门诊<医生: 王毅>'": "https://trello.com/c/zWt3s7sR",
     u"#生活/用 '电风扇'": "https://trello.com/c/KfYMMMAv",
     u"#生活/用 '秤(华为智能体脂秤)'": "https://trello.com/c/4ZCENHk4",
+    u"#社交/亲 '子(刘枢鸿)'": "https://trello.com/c/aEIQsM1k",
 }
