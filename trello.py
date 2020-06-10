@@ -276,4 +276,5 @@ trello_dict = {
     u"#软件/应用 '中国人保'": "https://trello.com/c/2wyA7oie",
     u"#软件/应用 '平安健康'": "https://trello.com/c/Hkl5UHut",
     u"#SDE(Android)/AAF 'AppTransition'": "https://trello.com/c/m3M7h61C",
+    u"#SW/App/网银(招行) '专业版'": "https://trello.com/c/UEqEwbNA",
 }
