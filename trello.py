@@ -278,4 +278,7 @@ trello_dict = {
     u"#SDE(Android)/AAF 'AppTransition'": "https://trello.com/c/m3M7h61C",
     u"#SW/App/网银(招行) '专业版'": "https://trello.com/c/UEqEwbNA",
     u"#生活/用/厨卫 '水槽洗菜盆·下水管'": "https://trello.com/c/PsfNOkHo",
+    u"#产品(EUI)/特性 '性能(内存)'": "https://trello.com/c/2ELOry6I",
+    u"#软件/应用 '北京公交'": "https://trello.com/c/5KrKKssc",
+    u"#软件/应用 '天眼查企业查询'": "https://trello.com/c/V2XNwrb7",
 }
