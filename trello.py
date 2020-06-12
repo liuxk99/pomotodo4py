@@ -272,9 +272,10 @@ trello_dict = {
     u"#生活/用 '电风扇'": "https://trello.com/c/KfYMMMAv",
     u"#生活/用 '秤(华为智能体脂秤)'": "https://trello.com/c/4ZCENHk4",
     u"#社交/亲 '子(刘枢鸿)'": "https://trello.com/c/aEIQsM1k",
-    u"#软件/应用 '北京一卡通'": "https://trello.com/c/veUe8Ata",
+    u"#软件/应用 '北京一卡通'": "https://trello.com/c/ex1KY8K3",
     u"#软件/应用 '中国人保'": "https://trello.com/c/2wyA7oie",
     u"#软件/应用 '平安健康'": "https://trello.com/c/Hkl5UHut",
     u"#SDE(Android)/AAF 'AppTransition'": "https://trello.com/c/m3M7h61C",
     u"#SW/App/网银(招行) '专业版'": "https://trello.com/c/UEqEwbNA",
+    u"#生活/用/厨卫 '水槽洗菜盆·下水管'": "https://trello.com/c/PsfNOkHo",
 }
