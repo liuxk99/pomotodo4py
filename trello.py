@@ -281,4 +281,5 @@ trello_dict = {
     u"#产品(EUI)/特性 '性能(内存)'": "https://trello.com/c/2ELOry6I",
     u"#软件/应用 '北京公交'": "https://trello.com/c/5KrKKssc",
     u"#软件/应用 '天眼查企业查询'": "https://trello.com/c/V2XNwrb7",
+    u"#生活/行 '机场(大兴国际机场)'": "https://trello.com/c/1EHU7CzN",
 }
