@@ -282,4 +282,6 @@ trello_dict = {
     u"#软件/应用 '北京公交'": "https://trello.com/c/5KrKKssc",
     u"#软件/应用 '天眼查企业查询'": "https://trello.com/c/V2XNwrb7",
     u"#生活/行 '机场(大兴国际机场)'": "https://trello.com/c/1EHU7CzN",
+    u"#产品(EUI)/应用 'TvFactoryTest'": "https://trello.com/c/Eo4sRP7U",
+    u"#社会/证件@刘显珂 '北京工作居住证'·随往<子女: 刘枢睽>": "https://trello.com/c/aN8UXuGd",
 }
