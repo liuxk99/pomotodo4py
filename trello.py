@@ -284,4 +284,5 @@ trello_dict = {
     u"#生活/行 '机场(大兴国际机场)'": "https://trello.com/c/1EHU7CzN",
     u"#产品(EUI)/应用 'TvFactoryTest'": "https://trello.com/c/Eo4sRP7U",
     u"#社会/证件@刘显珂 '北京工作居住证'·随往<子女: 刘枢睽>": "https://trello.com/c/aN8UXuGd",
+    u"#社会/证件@刘枢睽 '户口'·网办": "https://trello.com/c/7tpLNgWx",
 }
