@@ -285,4 +285,6 @@ trello_dict = {
     u"#产品(EUI)/应用 'TvFactoryTest'": "https://trello.com/c/Eo4sRP7U",
     u"#社会/证件@刘显珂 '北京工作居住证'·随往<子女: 刘枢睽>": "https://trello.com/c/aN8UXuGd",
     u"#社会/证件@刘枢睽 '户口'·网办": "https://trello.com/c/7tpLNgWx",
+    u"#DMS(乐视) 'JIRA(GRACE-36)'": "https://trello.com/c/0aAb6iXi",
+    u"#ADE(Android)/AAF 'Context'": "https://trello.com/c/oiZo6KRX",
 }
