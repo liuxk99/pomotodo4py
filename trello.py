@@ -287,4 +287,7 @@ trello_dict = {
     u"#社会/证件@刘枢睽 '户口'·网办": "https://trello.com/c/7tpLNgWx",
     u"#DMS(乐视) 'JIRA(GRACE-36)'": "https://trello.com/c/0aAb6iXi",
     u"#ADE(Android)/AAF 'Context'": "https://trello.com/c/oiZo6KRX",
+    u"#SDE(Android)/init 'service(adbd)'": "https://trello.com/c/R1DDxNpI",
+    u"#社会/证件@刘显珂 '北京工作居住证'": "https://trello.com/c/aN8UXuGd",
+    u"#产品(EUI)/规划 '实例(CVTE)'": "https://trello.com/c/CKePjKrH",
 }
