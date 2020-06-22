@@ -292,4 +292,5 @@ trello_dict = {
     u"#产品(EUI)/规划 '实例(CVTE)'": "https://trello.com/c/CKePjKrH",
     u"#财经/金融/服务 '支付宝·花呗'": "https://trello.com/c/1t5h6tPI",
     u"#SDE(Android)/开发者/Debug 'adb'": "https://trello.com/c/oMq2OMH8",
+    u"#生活/用@刘显珂 '理发'": "https://trello.com/c/09q2WFxA",
 }
