@@ -294,4 +294,6 @@ trello_dict = {
     u"#SDE(Android)/开发者/Debug 'adb'": "https://trello.com/c/oMq2OMH8",
     u"#生活/用@刘显珂 '理发'": "https://trello.com/c/09q2WFxA",
     u"#DMS(乐视) 'JIRA(GRACE-80)'": "https://trello.com/c/gTt9lwNG",
+    u"#财经/政策 '个税'": "https://trello.com/c/MAdWM9c9",
+    u"#产品(Amlogic)/init 'service(bootvideo)'": "https://trello.com/c/hfkencHX",
 }
