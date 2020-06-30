@@ -296,4 +296,6 @@ trello_dict = {
     u"#财经/政策 '个税'": "https://trello.com/c/MAdWM9c9",
     u"#产品(Amlogic)/init 'service(bootvideo)'": "https://trello.com/c/hfkencHX",
     u"#生活/游 '公园(宋庄文化公园)'": "https://trello.com/c/lbnw5Cv5",
+    u"#产品(EUI)/feature '关机'": "https://trello.com/c/eXBVtrMh",
+    u"#DMS(乐视) 'JIRA(GRACE-89)'": "https://trello.com/c/Zpbeplod",
 }
