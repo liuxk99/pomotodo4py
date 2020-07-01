@@ -298,4 +298,6 @@ trello_dict = {
     u"#生活/游 '公园(宋庄文化公园)'": "https://trello.com/c/lbnw5Cv5",
     u"#产品(EUI)/feature '关机'": "https://trello.com/c/eXBVtrMh",
     u"#DMS(乐视) 'JIRA(GRACE-89)'": "https://trello.com/c/Zpbeplod",
+    u"#SDE(Android)/AAF 'service(SurfaceFlinger)'": "https://trello.com/c/QWEHzjF0",
+    u"#生活/行/车(比亚迪·秦) '车险'": "https://trello.com/c/U2JsxYQI",
 }
