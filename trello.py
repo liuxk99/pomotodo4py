@@ -300,4 +300,5 @@ trello_dict = {
     u"#DMS(乐视) 'JIRA(GRACE-89)'": "https://trello.com/c/Zpbeplod",
     u"#SDE(Android)/AAF 'service(SurfaceFlinger)'": "https://trello.com/c/QWEHzjF0",
     u"#生活/行/车(比亚迪·秦) '车险'": "https://trello.com/c/U2JsxYQI",
+    u"#软件/应用 '钉钉'": "https://trello.com/c/usScoPpi",
 }
