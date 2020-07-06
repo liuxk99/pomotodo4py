@@ -302,4 +302,6 @@ trello_dict = {
     u"#生活/行/车(比亚迪·秦) '车险'": "https://trello.com/c/U2JsxYQI",
     u"#软件/应用 '钉钉'": "https://trello.com/c/usScoPpi",
     u"#SDE(Android)/feature 'Low Memory Killer'": "https://trello.com/c/GLtTBajc",
+    u"#SDE(Android)/bin 'lmkd'": "https://trello.com/c/SuTnsvoq",
+    u"#SDE(Android)/AAF 'service(activity)'": "https://trello.com/c/xEhaTINr",
 }
