@@ -304,4 +304,8 @@ trello_dict = {
     u"#SDE(Android)/feature 'Low Memory Killer'": "https://trello.com/c/GLtTBajc",
     u"#SDE(Android)/bin 'lmkd'": "https://trello.com/c/SuTnsvoq",
     u"#SDE(Android)/AAF 'service(activity)'": "https://trello.com/c/xEhaTINr",
+    u"#生命/健康(刘枢睽) '疫苗'": "https://trello.com/c/6zY5jVGz",
+    u"#生命/健康(穆娟) '门诊'": "https://trello.com/c/EORJhKUp",
+    u"#DMS(乐视) 'JIRA(GRACE-177)'": "https://trello.com/c/1ptbqq9C",
+    u"#DMS(乐视) 'JIRA(GRACE-108)'": "https://trello.com/c/KFtu1QD4",
 }
