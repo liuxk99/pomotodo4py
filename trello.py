@@ -308,4 +308,6 @@ trello_dict = {
     u"#生命/健康(穆娟) '门诊'": "https://trello.com/c/EORJhKUp",
     u"#DMS(乐视) 'JIRA(GRACE-177)'": "https://trello.com/c/1ptbqq9C",
     u"#DMS(乐视) 'JIRA(GRACE-108)'": "https://trello.com/c/KFtu1QD4",
+    u"#SDE(Android)/feature '关机'": "https://trello.com/c/ShInnOSA",
+    u"#SDE(Android)/特性 '性能(CPU)'": "https://trello.com/c/Zu2m8Dne",
 }
