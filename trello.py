@@ -310,4 +310,8 @@ trello_dict = {
     u"#DMS(乐视) 'JIRA(GRACE-108)'": "https://trello.com/c/KFtu1QD4",
     u"#SDE(Android)/feature '关机'": "https://trello.com/c/ShInnOSA",
     u"#SDE(Android)/特性 '性能(CPU)'": "https://trello.com/c/Zu2m8Dne",
+    u"#DMS(乐视) 'JIRA(GRACE-103)'": "https://trello.com/c/BHw5sJgp",
+    u"#产品(Amlogic)/应用 'Droidlogic'": "https://trello.com/c/dZ99sRhX",
+    u"#产品(Amlogic)/ 'bin(tvserver)'": "https://trello.com/c/ZyO0J4Cb",
+    u"#SDE(Android)/AAF 'service(package)'": "https://trello.com/c/EuMeFkZj",
 }

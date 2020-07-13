@@ -49,7 +49,7 @@ class MyTestCase(unittest.TestCase):
         pass
 
     def test_pomotodo_date(self):
-        day_dt = datetime_utils.from_iso8601("2020-07-07T00:00:00+0800")
+        day_dt = datetime_utils.from_iso8601("2020-07-09T00:00:00+0800")
         started_later_than = datetime_utils.to_utc(day_dt)
         started_earlier_than = started_later_than + timedelta(days=1)
 
