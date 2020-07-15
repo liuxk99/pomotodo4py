@@ -316,4 +316,5 @@ trello_dict = {
     u"#SDE(Android)/AAF 'service(package)'": "https://trello.com/c/EuMeFkZj",
     u"#DMS(乐视) 'JIRA(TVTENCENT-421)'": "https://trello.com/c/E6CldJuu",
     u"#SDE(Android)/DTC 'cmd(cpustats)'": "https://trello.com/c/AxNm7tjH",
+    u"#生活/用 '手机(乐Max-Pro)'": "https://trello.com/c/63YUrdyq",
 }
