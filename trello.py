@@ -318,4 +318,5 @@ trello_dict = {
     u"#SDE(Android)/DTC 'cmd(cpustats)'": "https://trello.com/c/AxNm7tjH",
     u"#生活/用 '手机(乐Max-Pro)'": "https://trello.com/c/63YUrdyq",
     u"#生活/行 '机场(首都国际机场)'": "https://trello.com/c/ckpqBnRd",
+    u"#生活/用 '手机·选购'": "https://trello.com/c/UwcBp1Rd",
 }
