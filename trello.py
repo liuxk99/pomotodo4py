@@ -321,4 +321,9 @@ trello_dict = {
     u"#生活/用 '手机·选购'": "https://trello.com/c/UwcBp1Rd",
     u"#软件/应用 '必要'": "https://trello.com/c/DrdQdDPJ",
     u"#软件/应用 '云闪付'": "https://trello.com/c/gT14PBEV",
+    u"#社交/同事 '夏清'": "https://trello.com/c/SdqNYcwF",
+    u"#产品/应用 '微信'": "https://trello.com/c/evxBdaDC",
+    u"#产品/应用 '支付宝'": "https://trello.com/c/YV8koBrj",
+    u"#软件/应用 '微博国际版'": "https://trello.com/c/N0bkulfB",
+    u"#SW/Service '招商银行'@刘先付": "https://trello.com/c/akHZqp6c",
 }
