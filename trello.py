@@ -327,4 +327,5 @@ trello_dict = {
     u"#软件/应用 '微博国际版'": "https://trello.com/c/N0bkulfB",
     u"#SW/Service '招商银行'@刘先付": "https://trello.com/c/akHZqp6c",
     u"#ADE(Python)/Tools 'logcat.rename'": "https://trello.com/c/bx00HnFD",
+    u"#生活/购 '超市(福源超市)'": "https://trello.com/c/MGhen72x",
 }
