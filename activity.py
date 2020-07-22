@@ -86,7 +86,7 @@ def export_file(activities, md_file, note_file):
         out_md.write(activity.to_markdown().decode('utf-8'))
         out_note.write(activity.to_YNoteMarkdown().decode('utf-8'))
 
-    out_md.close()
     out_note.close()
+    out_md.close()
 
     pass

@@ -328,4 +328,8 @@ trello_dict = {
     u"#SW/Service '招商银行'@刘先付": "https://trello.com/c/akHZqp6c",
     u"#ADE(Python)/Tools 'logcat.rename'": "https://trello.com/c/bx00HnFD",
     u"#生活/购 '超市(福源超市)'": "https://trello.com/c/MGhen72x",
+    u"#SW/Service '邮政储蓄银行'@刘先付": "https://trello.com/c/Iphv3CGn",
+    u"#软件/应用 '豆瓣阅读'": "https://trello.com/c/7RNstv4Y",
+    u"#软件/应用 '个人所得税'": "https://trello.com/c/YHWi1qya",
+    u"#ADE(Python)/Tools 'perf-cb'": "https://trello.com/c/dLjKHynv",
 }
