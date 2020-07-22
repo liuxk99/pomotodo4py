@@ -332,4 +332,5 @@ trello_dict = {
     u"#软件/应用 '豆瓣阅读'": "https://trello.com/c/7RNstv4Y",
     u"#软件/应用 '个人所得税'": "https://trello.com/c/YHWi1qya",
     u"#ADE(Python)/Tools 'perf-cb'": "https://trello.com/c/dLjKHynv",
+    u"#SDE(Android)/DTC 'ChkBugReport'": "https://trello.com/c/5vczitsr",
 }
