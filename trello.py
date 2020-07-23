@@ -333,4 +333,7 @@ trello_dict = {
     u"#软件/应用 '个人所得税'": "https://trello.com/c/YHWi1qya",
     u"#ADE(Python)/Tools 'perf-cb'": "https://trello.com/c/dLjKHynv",
     u"#SDE(Android)/DTC 'ChkBugReport'": "https://trello.com/c/5vczitsr",
+    u"#软件/应用 '大众点评'": "https://trello.com/c/cNRb3bql",
+    u"#DMS(乐视) 'JIRA(GRACE-268)'": "https://trello.com/c/1mfhxNzf",
+    u"#生活/职业 '简历'": "https://trello.com/c/rrIQGFcT",
 }
