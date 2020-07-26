@@ -337,4 +337,6 @@ trello_dict = {
     u"#DMS(乐视) 'JIRA(GRACE-268)'": "https://trello.com/c/1mfhxNzf",
     u"#生活/职业 '简历'": "https://trello.com/c/rrIQGFcT",
     u"#ADE(Python)/Tools 'sjFs4py'": "https://trello.com/c/bx00HnFD",
+    u"#SW/OS(Linux)/特性 '性能·工具'": "https://trello.com/c/rgtyuGKb",
+    u"#生活/社交 'LinkedIn'": "https://trello.com/c/pMBObhWb",
 }
