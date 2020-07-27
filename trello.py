@@ -339,4 +339,6 @@ trello_dict = {
     u"#ADE(Python)/Tools 'sjFs4py'": "https://trello.com/c/bx00HnFD",
     u"#SW/OS(Linux)/特性 '性能·工具'": "https://trello.com/c/rgtyuGKb",
     u"#生活/社交 'LinkedIn'": "https://trello.com/c/pMBObhWb",
+    u"#时间管理 '周'": "https://trello.com/c/ReNsHEZe",
+    u"#项目/经历 '项目志'@刘显珂": "https://trello.com/c/e9EosH7y",
 }
