@@ -344,4 +344,8 @@ trello_dict = {
     u"#生活/职场 '职业'": "https://trello.com/c/UZPaekTe",
     u"#社交/圈子 '技术'": "https://trello.com/c/dVVBNN8r",
     u"#社交/同事 '崔建勇'": "https://trello.com/c/gADs7RlB",
+    u"#Programmer/PLang 'Markdown'": "https://trello.com/c/7dbc6QXw",
+    u"#软件/OS(Android) '管理'": "https://trello.com/c/GuStmRnD",
+    u"#软件/应用 'QQ'": "https://trello.com/c/yiNh7Zb9",
+    u"#SDE(Android)/DTC 'idegen'": "https://trello.com/c/HiczDXCf",
 }
