@@ -341,4 +341,7 @@ trello_dict = {
     u"#生活/社交 'LinkedIn'": "https://trello.com/c/pMBObhWb",
     u"#时间管理 '周'": "https://trello.com/c/ReNsHEZe",
     u"#项目/经历 '项目志'@刘显珂": "https://trello.com/c/e9EosH7y",
+    u"#生活/职场 '职业'": "https://trello.com/c/UZPaekTe",
+    u"#社交/圈子 '技术'": "https://trello.com/c/dVVBNN8r",
+    u"#社交/同事 '崔建勇'": "https://trello.com/c/gADs7RlB",
 }
