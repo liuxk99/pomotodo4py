@@ -348,4 +348,8 @@ trello_dict = {
     u"#软件/OS(Android) '管理'": "https://trello.com/c/GuStmRnD",
     u"#软件/应用 'QQ'": "https://trello.com/c/yiNh7Zb9",
     u"#SDE(Android)/DTC 'idegen'": "https://trello.com/c/HiczDXCf",
+    u"#Programmer/DTC 'IDE(VSCode)'": "https://trello.com/c/NZYnJxUq",
+    u"#Programmer/RE 'node.js'": "https://trello.com/c/XgncRsMT",
+    u"#Programmer/PLang 'Markdown(GFM)'": "https://trello.com/c/fqtXrr8O",
+    u"#SDE(Android)/AAF 'service(dreams)'": "https://trello.com/c/2uHDOJn5",
 }
