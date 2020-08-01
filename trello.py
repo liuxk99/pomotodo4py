@@ -352,4 +352,7 @@ trello_dict = {
     u"#Programmer/RE 'node.js'": "https://trello.com/c/XgncRsMT",
     u"#Programmer/PLang 'Markdown(GFM)'": "https://trello.com/c/fqtXrr8O",
     u"#SDE(Android)/AAF 'service(dreams)'": "https://trello.com/c/2uHDOJn5",
+    u"#SDE(Android)/AAF 'service(power)'": "https://trello.com/c/a59p6NfT",
+    u"#公司(乐融)/管理 '搬家'": "https://trello.com/c/OBceELlA",
+    u"#ADE(Java)/DTC 'IDE(VSCode)'": "https://trello.com/c/uqLUvVFF",
 }
