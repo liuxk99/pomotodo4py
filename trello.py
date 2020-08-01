@@ -355,4 +355,6 @@ trello_dict = {
     u"#SDE(Android)/AAF 'service(power)'": "https://trello.com/c/a59p6NfT",
     u"#公司(乐融)/管理 '搬家'": "https://trello.com/c/OBceELlA",
     u"#ADE(Java)/DTC 'IDE(VSCode)'": "https://trello.com/c/uqLUvVFF",
+    u"#ADE(Java) 'JDK'": "https://trello.com/c/Ri2UeX07",
+    u"#SDE(Android)/特性(开发者) 'logs'": "https://trello.com/c/04jO1vRf",
 }
