@@ -357,4 +357,7 @@ trello_dict = {
     u"#ADE(Java)/DTC 'IDE(VSCode)'": "https://trello.com/c/uqLUvVFF",
     u"#ADE(Java) 'JDK'": "https://trello.com/c/Ri2UeX07",
     u"#SDE(Android)/特性(开发者) 'logs'": "https://trello.com/c/04jO1vRf",
+    u"#软件/服务 '牛客网'": "https://trello.com/c/5yG9wm6v",
+    u"#生活/用 '手机·配件(桌面支架)'": "https://trello.com/c/JPDZ6Ieu",
+    u"#自然/数学 '数据结构与算法'": "https://trello.com/c/uoTG7KSh",
 }
