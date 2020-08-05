@@ -360,4 +360,7 @@ trello_dict = {
     u"#软件/服务 '牛客网'": "https://trello.com/c/5yG9wm6v",
     u"#生活/用 '手机·配件(桌面支架)'": "https://trello.com/c/JPDZ6Ieu",
     u"#自然/数学 '数据结构与算法'": "https://trello.com/c/uoTG7KSh",
+    u"#SDE(Android)/init 'service(property)'": "https://trello.com/c/blAhjS1Z",
+    u"#SW/OS 'Android'": "https://trello.com/c/RHNTK4gM",
+    u"#DMS(乐视) 'JIRA(GRACE-314)'": "https://trello.com/c/BepvJ4XE",
 }
