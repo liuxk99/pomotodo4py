@@ -363,4 +363,10 @@ trello_dict = {
     u"#SDE(Android)/init 'service(property)'": "https://trello.com/c/blAhjS1Z",
     u"#SW/OS 'Android'": "https://trello.com/c/RHNTK4gM",
     u"#DMS(乐视) 'JIRA(GRACE-314)'": "https://trello.com/c/BepvJ4XE",
+    u"#产品(AOSP)/特性 'watchdog'": "https://trello.com/c/YMdK1dw1",
+    u"#SDE(Android)/VM 'traces'": "https://trello.com/c/tf6yv36r",
+    u"#软件(Android) '特性(非功能)'": "https://trello.com/c/ucbOdqVC",
+    u"#生活/用/手机 '配件(支架)'": "https://trello.com/c/dMAVv4bP",
+    u"#生活/用/数码 '摄像头'": "https://trello.com/c/JPDZ6Ieu",
+    u"#SDE(Android)/System '开发者(PassCode)'": "https://trello.com/c/oHYYdZtL",
 }
