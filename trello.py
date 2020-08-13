@@ -374,9 +374,10 @@ trello_dict = {
     u"#公司(乐融)/管理 '资产'": "https://trello.com/c/mjIN77Yi",
     u"#IT/计算资源 'PC(XancL01)'": "https://trello.com/c/NDzdA4M4",
     u"#Programmer/DTC 'cygwin'": "https://trello.com/c/jLE4oW1O",
-    u"#产品(EU)/features 'letvmanager'": "https://trello.com/c/gXL4v3Bh",
     u"#社交 '同事(翟建利)'": "https://trello.com/c/oPI9llPs",
     u"#Programmer/RE 'ruby'": "https://trello.com/c/08QnHecD",
     u"#SW/OS(Unix) 'jekyll'": "https://trello.com/c/u7N0XkrX",
     u"#产品(EUI)/features 'letvmanager'": "https://trello.com/c/gXL4v3Bh",
+    u"#SW/Web 'Blog(jekyll)'": "https://trello.com/c/u7N0XkrX",
+    u"#Programmer/DTC 'VCS(git)'": "https://trello.com/c/QEngLqR0",
 }
