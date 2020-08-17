@@ -380,4 +380,5 @@ trello_dict = {
     u"#产品(EUI)/features 'letvmanager'": "https://trello.com/c/gXL4v3Bh",
     u"#SW/Web 'Blog(jekyll)'": "https://trello.com/c/u7N0XkrX",
     u"#Programmer/DTC 'VCS(git)'": "https://trello.com/c/QEngLqR0",
+    u"#生活/游 '公园(大运河森林公园)'": "https://trello.com/c/yDeVdjLZ",
 }
