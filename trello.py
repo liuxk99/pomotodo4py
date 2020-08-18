@@ -382,4 +382,6 @@ trello_dict = {
     u"#Programmer/DTC 'VCS(git)'": "https://trello.com/c/QEngLqR0",
     u"#生活/游 '公园(大运河森林公园)'": "https://trello.com/c/yDeVdjLZ",
     u"#社交/同事 '谈慧媛'": "https://trello.com/c/3ZT5D3Sv",
+    u"#ADE(Java)/Lib 'Time'": "https://trello.com/c/2SnPQc8y",
+    u"#DMS(乐视) 'JIRA(GRACE-362)'": "https://trello.com/c/DUHMtTxA",
 }
