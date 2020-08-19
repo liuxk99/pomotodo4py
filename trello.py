@@ -387,4 +387,7 @@ trello_dict = {
     u"#产品/健康 '服务(体检)'": "https://trello.com/c/vh2Westv",
     u"#SDE(Android)/Infrastructure 'VM(ART)'": "https://trello.com/c/F1IPPo4n",
     u"#SDE(Android)/性能(响应) 'ANR'": "https://trello.com/c/aWiMpF9j",
+    u"#DMS(乐视) 'JIRA(GRACE-361)'": "https://trello.com/c/28ODsYGf",
+    u"#DMS(乐视) 'JIRA(GRACE-347)'": "https://trello.com/c/F7PLaIAr",
+    u"#财经/保险 '医疗(新农合)'": "https://trello.com/c/h2iPhNMd",
 }
