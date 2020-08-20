@@ -384,4 +384,7 @@ trello_dict = {
     u"#社交/同事 '谈慧媛'": "https://trello.com/c/3ZT5D3Sv",
     u"#ADE(Java)/Lib 'Time'": "https://trello.com/c/2SnPQc8y",
     u"#DMS(乐视) 'JIRA(GRACE-362)'": "https://trello.com/c/DUHMtTxA",
+    u"#产品/健康 '服务(体检)'": "https://trello.com/c/vh2Westv",
+    u"#SDE(Android)/Infrastructure 'VM(ART)'": "https://trello.com/c/F1IPPo4n",
+    u"#SDE(Android)/性能(响应) 'ANR'": "https://trello.com/c/aWiMpF9j",
 }
