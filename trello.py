@@ -390,4 +390,5 @@ trello_dict = {
     u"#DMS(乐视) 'JIRA(GRACE-361)'": "https://trello.com/c/28ODsYGf",
     u"#DMS(乐视) 'JIRA(GRACE-347)'": "https://trello.com/c/F7PLaIAr",
     u"#财经/保险 '医疗(新农合)'": "https://trello.com/c/h2iPhNMd",
+    u"#产品(EUI)/feature '开机'": "https://trello.com/c/icKzqLBE",
 }
