@@ -392,4 +392,5 @@ trello_dict = {
     u"#财经/保险 '医疗(新农合)'": "https://trello.com/c/h2iPhNMd",
     u"#产品(EUI)/feature '开机'": "https://trello.com/c/icKzqLBE",
     u"#社交/亲 '母(周先安)'": "https://trello.com/c/kbkzQM00",
+    u"#ADE(Android)/Lib 'PostHub'": "https://trello.com/c/z4JP7O5z",
 }
