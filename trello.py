@@ -367,7 +367,7 @@ trello_dict = {
     u"#SDE(Android)/VM 'traces'": "https://trello.com/c/tf6yv36r",
     u"#软件(Android) '特性(非功能)'": "https://trello.com/c/ucbOdqVC",
     u"#生活/用/手机 '配件(支架)'": "https://trello.com/c/dMAVv4bP",
-    u"#生活/用/数码 '摄像头'": "https://trello.com/c/JPDZ6Ieu",
+    u"#生活/用/数码 '摄像头'": "https://trello.com/c/dMAVv4bP",
     u"#SDE(Android)/System '开发者(PassCode)'": "https://trello.com/c/oHYYdZtL",
     u"#硬件/硬盘 'ST4000DM004'": "https://trello.com/c/rLb9FeXs",
     u"#公司(乐融)/活动 '评选(乘风破浪)'": "https://trello.com/c/MieMuGi9",
