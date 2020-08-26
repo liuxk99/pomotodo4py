@@ -393,4 +393,6 @@ trello_dict = {
     u"#产品(EUI)/feature '开机'": "https://trello.com/c/icKzqLBE",
     u"#社交/亲 '母(周先安)'": "https://trello.com/c/kbkzQM00",
     u"#ADE(Android)/Lib 'PostHub'": "https://trello.com/c/z4JP7O5z",
+    u"#SDE(Android) 'kernel(AmlT920L)'": "https://trello.com/c/C0RqWD1a",
+    u"#SDE(Android)/DevEnv 'mstar848'": "https://trello.com/c/UtU1TEdj",
 }
