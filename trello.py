@@ -400,4 +400,5 @@ trello_dict = {
     u"#公司(乐融)/部门(EUI系统) '会议'": "https://trello.com/c/sOWd80RW",
     u"#社交/同学/高中 '聚会'": "https://trello.com/c/AB3wUaEP",
     u"#社交/同学(高中) '聚会'": "https://trello.com/c/AB3wUaEP",
+    u"#生活/住/房 '珠江丽景家园'": "https://trello.com/c/t2aYIaPd",
 }
