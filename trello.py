@@ -401,4 +401,5 @@ trello_dict = {
     u"#社交/同学/高中 '聚会'": "https://trello.com/c/AB3wUaEP",
     u"#社交/同学(高中) '聚会'": "https://trello.com/c/AB3wUaEP",
     u"#生活/住/房 '珠江丽景家园'": "https://trello.com/c/t2aYIaPd",
+    u"#书籍 '什么是中医'": "https://trello.com/c/89Aw6nxb",
 }
