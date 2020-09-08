@@ -408,4 +408,5 @@ trello_dict = {
     u"#财经/理财 '余额宝'@周先安": "https://trello.com/c/EKV1VV0i",
     u"#生命/健康/药 '创可贴'": "https://trello.com/c/XTyjxQhu",
     u"#SDE(Android)/DevEnv 'mstar358'": "https://trello.com/c/gzStgjC3",
+    u"#生活/住 '租房(珠江丽景家园60#-1-502)'": "https://trello.com/c/00BYMVU7",
 }
