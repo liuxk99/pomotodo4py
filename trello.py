@@ -407,4 +407,5 @@ trello_dict = {
     u"#SDE(Android)/性能 'blocked'": "https://trello.com/c/DRPOekqZ",
     u"#财经/理财 '余额宝'@周先安": "https://trello.com/c/EKV1VV0i",
     u"#生命/健康/药 '创可贴'": "https://trello.com/c/XTyjxQhu",
+    u"#SDE(Android)/DevEnv 'mstar358'": "https://trello.com/c/gzStgjC3",
 }
