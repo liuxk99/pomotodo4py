@@ -405,4 +405,6 @@ trello_dict = {
     u"#SW/Service '搜狗'": "https://trello.com/c/zn6dteuh",
     u"#SDE(Android)/Lib 'SystemProperties'": "https://trello.com/c/uMs0xhIn",
     u"#SDE(Android)/性能 'blocked'": "https://trello.com/c/DRPOekqZ",
+    u"#财经/理财 '余额宝'@周先安": "https://trello.com/c/EKV1VV0i",
+    u"#生命/健康/药 '创可贴'": "https://trello.com/c/XTyjxQhu",
 }
