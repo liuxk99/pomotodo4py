@@ -410,4 +410,6 @@ trello_dict = {
     u"#SDE(Android)/DevEnv 'mstar358'": "https://trello.com/c/gzStgjC3",
     u"#生活/住 '租房(珠江丽景家园60#-1-502)'": "https://trello.com/c/00BYMVU7",
     u"#生活/行 '大巴(公安-北京)'": "https://trello.com/c/YHRDTL4D",
+    u"#社交/亲/子(刘枢鸿) '教育'": "https://trello.com/c/ewayxAhj",
+    u"#生活/用 '宽带<ISP:中国联通>'": "https://trello.com/c/HQtIGKRz",
 }
