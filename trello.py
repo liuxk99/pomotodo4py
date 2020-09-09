@@ -396,6 +396,7 @@ trello_dict = {
     u"#SDE(Android) 'kernel(AmlT920L)'": "https://trello.com/c/C0RqWD1a",
     u"#SDE(Android)/DevEnv 'mstar848'": "https://trello.com/c/UtU1TEdj",
     u"#产品/健康/体检 '服务商(爱康国宾)'": "https://trello.com/c/MxENmLBD",
+    u"#生命/健康/体检 '服务商(爱康国宾)'": "https://trello.com/c/MxENmLBD",
     u"#项目/合作 '创维'": "https://trello.com/c/5PLUrbDn",
     u"#公司(乐融)/部门(EUI系统) '会议'": "https://trello.com/c/sOWd80RW",
     u"#社交/同学/高中 '聚会'": "https://trello.com/c/AB3wUaEP",
