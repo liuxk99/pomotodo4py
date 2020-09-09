@@ -413,4 +413,5 @@ trello_dict = {
     u"#生活/行 '大巴(公安-北京)'": "https://trello.com/c/YHRDTL4D",
     u"#社交/亲/子(刘枢鸿) '教育'": "https://trello.com/c/ewayxAhj",
     u"#生活/用 '宽带<ISP:中国联通>'": "https://trello.com/c/HQtIGKRz",
+    u"#生活/用 '缝纫机油'": "https://trello.com/c/BSFt2XiW",
 }
