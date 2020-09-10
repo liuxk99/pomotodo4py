@@ -414,4 +414,6 @@ trello_dict = {
     u"#社交/亲/子(刘枢鸿) '教育'": "https://trello.com/c/ewayxAhj",
     u"#生活/用 '宽带<ISP:中国联通>'": "https://trello.com/c/HQtIGKRz",
     u"#生活/用 '缝纫机油'": "https://trello.com/c/BSFt2XiW",
+    u"#生活/行/车 '安全(i车保护神)'": "https://trello.com/c/hxBuSQ9R",
+    u"#DMS(乐视) 'JIRA(GRACE-421)'": "https://trello.com/c/lmffb4nR",
 }
