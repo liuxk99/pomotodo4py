@@ -417,4 +417,8 @@ trello_dict = {
     u"#生活/行/车 '安全(i车保护神)'": "https://trello.com/c/hxBuSQ9R",
     u"#DMS(乐视) 'JIRA(GRACE-421)'": "https://trello.com/c/lmffb4nR",
     u"#DMS(乐视) 'JIRA(GRACE-503)'": "https://trello.com/c/Qz9ppqGT",
+    u"#DMS(乐视) 'JIRA(GRACE-511)'": "https://trello.com/c/45rhHM1t",
+    u"#DMS(乐视) 'JIRA(GRACE-407)'": "https://trello.com/c/wWrzagyQ",
+    u"#生活/行 '电动自行车'": "https://trello.com/c/Mbmm4cB8",
+    u"#公司(乐视)/组织 '团建(蒙古大营)'": "https://trello.com/c/XpJ4VFyl",
 }
