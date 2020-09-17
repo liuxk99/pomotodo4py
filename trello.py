@@ -424,4 +424,9 @@ trello_dict = {
     u"#DMS(乐视) 'JIRA(GRACE-663)'": "https://trello.com/c/pCjnCJFX",
     u"#产品(Amlogic)/jar 'droidlogic'": "https://trello.com/c/gu0S1oyG",
     u"#DMS(乐视) 'JIRA(EUISIX-10035)'": "https://trello.com/c/W6VCns5E",
+    u"#社会/服务 '北京市统一身份认证平台'": "https://trello.com/c/dWgQjNfE",
+    u"#软件/应用 '北京人社'": "https://trello.com/c/lvvNNcPn",
+    u"#财经/保险/社保 '居民医保(一小)'": "https://trello.com/c/k2HpWfwM",
+    u"#SW/Service '北京银行'": "https://trello.com/c/ux132LPp",
+    u"#财经/金融/服务 '银行(北京银行)'": "https://trello.com/c/ux132LPp",
 }
