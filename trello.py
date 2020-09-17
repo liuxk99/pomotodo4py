@@ -429,4 +429,5 @@ trello_dict = {
     u"#财经/保险/社保 '居民医保(一小)'": "https://trello.com/c/k2HpWfwM",
     u"#SW/Service '北京银行'": "https://trello.com/c/ux132LPp",
     u"#财经/金融/服务 '银行(北京银行)'": "https://trello.com/c/ux132LPp",
+    u"#生活/行/车 '电动自行车'": "https://trello.com/c/Mbmm4cB8",
 }
