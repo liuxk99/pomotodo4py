@@ -423,4 +423,5 @@ trello_dict = {
     u"#公司(乐视)/组织 '团建(蒙古大营)'": "https://trello.com/c/XpJ4VFyl",
     u"#DMS(乐视) 'JIRA(GRACE-663)'": "https://trello.com/c/pCjnCJFX",
     u"#产品(Amlogic)/jar 'droidlogic'": "https://trello.com/c/gu0S1oyG",
+    u"#DMS(乐视) 'JIRA(EUISIX-10035)'": "https://trello.com/c/W6VCns5E",
 }
