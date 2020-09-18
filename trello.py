@@ -430,4 +430,5 @@ trello_dict = {
     u"#SW/Service '北京银行'": "https://trello.com/c/ux132LPp",
     u"#财经/金融/服务 '银行(北京银行)'": "https://trello.com/c/ux132LPp",
     u"#生活/行/车 '电动自行车'": "https://trello.com/c/Mbmm4cB8",
+    u"#书籍 '终生幼儿园'": "https://trello.com/c/T3dyEbT0",
 }
