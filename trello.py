@@ -432,4 +432,5 @@ trello_dict = {
     u"#生活/行/车 '电动自行车'": "https://trello.com/c/Mbmm4cB8",
     u"#书籍 '终生幼儿园'": "https://trello.com/c/T3dyEbT0",
     u"#社交/同事 '赵一鸣'": "https://trello.com/c/t3cBdv7i",
+    u"#生活/购/家居 '宜家家居(四元桥商场)'": "https://trello.com/c/4u3pzoFf",
 }
