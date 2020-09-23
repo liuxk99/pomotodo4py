@@ -434,4 +434,7 @@ trello_dict = {
     u"#社交/同事 '赵一鸣'": "https://trello.com/c/t3cBdv7i",
     u"#生活/购/家居 '宜家家居(四元桥商场)'": "https://trello.com/c/4u3pzoFf",
     u"#生命/健康(穆娟) '门诊": "https://trello.com/c/EORJhKUp",
+    u"#ADE(Android)/DTC 'Log(logcat)'": "https://trello.com/c/FWShWBxs",
+    u"#公司(乐融)/管理 '行政'": "https://trello.com/c/8fEkqUAI",
+    u"#DMS(乐视) 'JIRA(GRACE-687)'": "https://trello.com/c/7KkjaSNj",
 }
