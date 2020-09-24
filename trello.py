@@ -437,4 +437,5 @@ trello_dict = {
     u"#ADE(Android)/DTC 'Log(logcat)'": "https://trello.com/c/FWShWBxs",
     u"#公司(乐融)/管理 '行政'": "https://trello.com/c/8fEkqUAI",
     u"#DMS(乐视) 'JIRA(GRACE-687)'": "https://trello.com/c/7KkjaSNj",
+    u"#SDE(Android)/AAF 'framework'": "https://trello.com/c/LyRSsUm1",
 }
