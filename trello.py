@@ -438,4 +438,5 @@ trello_dict = {
     u"#公司(乐融)/管理 '行政'": "https://trello.com/c/8fEkqUAI",
     u"#DMS(乐视) 'JIRA(GRACE-687)'": "https://trello.com/c/7KkjaSNj",
     u"#SDE(Android)/AAF 'framework'": "https://trello.com/c/LyRSsUm1",
+    u"#公司(乐融)/部门(EUI系统) '组织'": "https://trello.com/c/uG0bBWyk",
 }
