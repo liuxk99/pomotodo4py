@@ -439,4 +439,6 @@ trello_dict = {
     u"#DMS(乐视) 'JIRA(GRACE-687)'": "https://trello.com/c/7KkjaSNj",
     u"#SDE(Android)/AAF 'framework'": "https://trello.com/c/LyRSsUm1",
     u"#公司(乐融)/部门(EUI系统) '组织'": "https://trello.com/c/uG0bBWyk",
+    u"#软件/应用 '壹钱包'": "https://trello.com/c/6QsQXGwr",
+    u"#SDE(Android)/Infrastructure 'zygote'": "https://trello.com/c/N1ejNlCy",
 }
