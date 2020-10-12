@@ -443,4 +443,6 @@ trello_dict = {
     u"#SDE(Android)/Infrastructure 'zygote'": "https://trello.com/c/N1ejNlCy",
     u"#文化 '经典(道德经)'": "https://trello.com/c/0gZkRts3",
     u"#DMS(乐视) 'JIRA(GRACE-733)'": "https://trello.com/c/XC2jHwdc",
+    u"#软件/服务 '华为账号'@刘先付": "https://trello.com/c/ecNCCAOX",
+    u"#财经/金融/服务 '银行(邮政储蓄银行)'": "https://trello.com/c/xZyBgECm",
 }
