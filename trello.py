@@ -448,4 +448,6 @@ trello_dict = {
     u"#生活/行/车(比亚迪·秦) '充电桩'": "https://trello.com/c/tmy5Djdg",
     u"#DMS(乐视) 'JIRA(GRACE-716)'": "https://trello.com/c/SBwsB2ct",
     u"#Programmer/DTC 'SCM'": "https://trello.com/c/PUzryeNl",
+    u"#公司(乐融)/办公 '工位'": "https://trello.com/c/GxcvISOf",
+    u"#财经/保险 '社保'@刘枢鸿": "https://trello.com/c/oSU69tgK",
 }
