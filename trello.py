@@ -445,4 +445,6 @@ trello_dict = {
     u"#DMS(乐视) 'JIRA(GRACE-733)'": "https://trello.com/c/XC2jHwdc",
     u"#软件/服务 '华为账号'@刘先付": "https://trello.com/c/ecNCCAOX",
     u"#财经/金融/服务 '银行(邮政储蓄银行)'": "https://trello.com/c/xZyBgECm",
+    u"#生活/行/车(比亚迪·秦) '充电桩'": "https://trello.com/c/tmy5Djdg",
+    u"#DMS(乐视) 'JIRA(GRACE-716)'": "https://trello.com/c/SBwsB2ct",
 }
