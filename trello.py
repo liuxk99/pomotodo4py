@@ -450,4 +450,5 @@ trello_dict = {
     u"#Programmer/DTC 'SCM'": "https://trello.com/c/PUzryeNl",
     u"#公司(乐融)/办公 '工位'": "https://trello.com/c/GxcvISOf",
     u"#财经/保险 '社保'@刘枢鸿": "https://trello.com/c/oSU69tgK",
+    u"#SW<OS: Ubuntu>/App 'Web-Browser(FireFox)'": "https://trello.com/c/q0NNcK6F",
 }
