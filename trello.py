@@ -456,4 +456,7 @@ trello_dict = {
     u"#社会/证件 '北京市居住证'@刘显珂": "https://trello.com/c/OwIoNMOb",
     u"#社交/妻 '穆娟'": "https://trello.com/c/t5eX5AFL",
     u"#生活/游 '景区(舞彩浅山)'": "https://trello.com/c/wvrcerrF",
+    u"#社会/调查 '人口普查'": "https://trello.com/c/Rmiy2Pkq",
+    u"#产品/应用 'pomotodo4py'": "https://trello.com/c/EtRq0oeu",
+    u"#软件/应用 '知乎'": "https://trello.com/c/5eb4n2IN",
 }
