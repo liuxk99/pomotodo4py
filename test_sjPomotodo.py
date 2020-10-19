@@ -48,16 +48,6 @@ class MyTestCase(unittest.TestCase):
         # self.assertEqual(True, False)
         pass
 
-    def test_pomotodo_date(self):
-        day_dt = datetime_utils.from_iso8601("2020-08-09T00:00:00+0800")
-        started_later_than = datetime_utils.to_utc(day_dt)
-        started_earlier_than = started_later_than + timedelta(days=1)
-
-        sjPomotodo.do_main(self.token, started_later_than, started_earlier_than)
-
-        # self.assertEqual(True, False)
-        pass
-
 
 if __name__ == '__main__':
     unittest.main()

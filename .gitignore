@@ -133,3 +133,6 @@ dmypy.json
 
 *.md
 pomotodo.properties
+
+# project files
+test_sjPomotodo_date.py
