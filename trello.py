@@ -453,4 +453,7 @@ trello_dict = {
     u"#SW<OS: Ubuntu>/App 'Web-Browser(FireFox)'": "https://trello.com/c/q0NNcK6F",
     u"#软件/服务 '网上国网'": "https://trello.com/c/HPTBchnv",
     u"#公司(乐融)/团队(FW) '组织'": "https://trello.com/c/4dL7tdHu",
+    u"#社会/证件 '北京市居住证'@刘显珂": "https://trello.com/c/OwIoNMOb",
+    u"#社交/妻 '穆娟'": "https://trello.com/c/t5eX5AFL",
+    u"#生活/游 '景区(舞彩浅山)'": "https://trello.com/c/wvrcerrF",
 }
