@@ -460,4 +460,7 @@ trello_dict = {
     u"#产品/应用 'pomotodo4py'": "https://trello.com/c/EtRq0oeu",
     u"#软件/应用 '知乎'": "https://trello.com/c/5eb4n2IN",
     u"#生活/购/商场 '华联购物中心(常营店)'": "https://trello.com/c/3eZydH2T",
+    u"#软件/应用 '北京社保'": "https://trello.com/c/KoN58lpb",
+    u"#软件/应用 '拼多多'": "https://trello.com/c/b1YjJCXM",
+    u"#人文/教育 '培训(火花思维)'": "https://trello.com/c/HGhYfoC6",
 }
