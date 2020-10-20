@@ -459,4 +459,5 @@ trello_dict = {
     u"#社会/调查 '人口普查'": "https://trello.com/c/Rmiy2Pkq",
     u"#产品/应用 'pomotodo4py'": "https://trello.com/c/EtRq0oeu",
     u"#软件/应用 '知乎'": "https://trello.com/c/5eb4n2IN",
+    u"#生活/购/商场 '华联购物中心(常营店)'": "https://trello.com/c/3eZydH2T",
 }
