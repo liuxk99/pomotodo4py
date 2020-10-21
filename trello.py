@@ -463,4 +463,7 @@ trello_dict = {
     u"#软件/应用 '北京社保'": "https://trello.com/c/KoN58lpb",
     u"#软件/应用 '拼多多'": "https://trello.com/c/b1YjJCXM",
     u"#人文/教育 '培训(火花思维)'": "https://trello.com/c/HGhYfoC6",
+    u"#生命/健康(刘枢睽) '门急诊'": "https://trello.com/c/lzYiCs2P",
+    u"#财经/保险 '社保'@刘枢睽": "https://trello.com/c/iCX4RzPh",
+    u"#SW/OS(Unix)/cmds 'gitk'": "https://trello.com/c/rJId11sE",
 }
