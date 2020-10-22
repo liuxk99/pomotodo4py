@@ -466,4 +466,5 @@ trello_dict = {
     u"#生命/健康(刘枢睽) '门急诊'": "https://trello.com/c/lzYiCs2P",
     u"#财经/保险 '社保'@刘枢睽": "https://trello.com/c/iCX4RzPh",
     u"#SW/OS(Unix)/cmds 'gitk'": "https://trello.com/c/rJId11sE",
+    u"#SDE(Android) 'DevEnv'": "https://trello.com/c/flduiSNd",
 }
