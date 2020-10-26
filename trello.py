@@ -467,4 +467,6 @@ trello_dict = {
     u"#财经/保险 '社保'@刘枢睽": "https://trello.com/c/iCX4RzPh",
     u"#SW/OS(Unix)/cmds 'gitk'": "https://trello.com/c/rJId11sE",
     u"#SDE(Android) 'DevEnv'": "https://trello.com/c/flduiSNd",
+    u"#DMS(乐视) 'JIRA(GRACE-737)'": "https://trello.com/c/oE0skF9C",
+    u"#产品/OS(Android) 'Partitions'": "https://trello.com/c/pZVem5zd",
 }
