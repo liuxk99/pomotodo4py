@@ -469,4 +469,5 @@ trello_dict = {
     u"#SDE(Android) 'DevEnv'": "https://trello.com/c/flduiSNd",
     u"#DMS(乐视) 'JIRA(GRACE-737)'": "https://trello.com/c/oE0skF9C",
     u"#产品/OS(Android) 'Partitions'": "https://trello.com/c/pZVem5zd",
+    u"#生活/购 '京榜品牌折扣'": "https://trello.com/c/GejJafkh",
 }
