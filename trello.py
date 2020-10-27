@@ -471,4 +471,6 @@ trello_dict = {
     u"#产品/OS(Android) 'Partitions'": "https://trello.com/c/pZVem5zd",
     u"#生活/购 '京榜品牌折扣'": "https://trello.com/c/GejJafkh",
     u"#人文/社会 '起名'": "https://trello.com/c/S1XtQj1V",
+    u"#公司(致新)/管理 '裁员'": "https://trello.com/c/b6mjoQ7J",
+    u"#SW/Service/AWS 'EC2'": "https://trello.com/c/aFp8NVyS",
 }
