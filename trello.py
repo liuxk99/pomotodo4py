@@ -473,4 +473,5 @@ trello_dict = {
     u"#人文/社会 '起名'": "https://trello.com/c/S1XtQj1V",
     u"#公司(致新)/管理 '裁员'": "https://trello.com/c/b6mjoQ7J",
     u"#SW/Service/AWS 'EC2'": "https://trello.com/c/aFp8NVyS",
+    u"#ADE(Android) 'Market'": "https://trello.com/c/njN6INuf",
 }
