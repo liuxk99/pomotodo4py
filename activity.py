@@ -2,7 +2,7 @@
 import codecs
 
 import datetime_utils
-from trello import trello_dict
+from conf import trello_dict
 
 
 class Activity:
