@@ -475,4 +475,5 @@ trello_dict = {
     u"#SW/Service/AWS 'EC2'": "https://trello.com/c/aFp8NVyS",
     u"#ADE(Android) 'Market'": "https://trello.com/c/njN6INuf",
     u"#生活/用 '线缆'": "https://trello.com/c/JJ0PwNar",
+    u"#产品(Android)/App 'PackageInstaller'": "https://trello.com/c/EuY14g2q",
 }
