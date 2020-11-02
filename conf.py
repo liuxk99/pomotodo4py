@@ -476,4 +476,7 @@ trello_dict = {
     u"#ADE(Android) 'Market'": "https://trello.com/c/njN6INuf",
     u"#生活/用 '线缆'": "https://trello.com/c/JJ0PwNar",
     u"#产品(Android)/App 'PackageInstaller'": "https://trello.com/c/EuY14g2q",
+    u"#生活/游 '公园(城市绿心森林公园)'": "https://trello.com/c/IWKRHoCJ",
+    u"#生活/用 '名片夹'": "https://trello.com/c/FSMskJyM",
+    u"#生活/用 '干电池'": "https://trello.com/c/sfM1WyZL",
 }
