@@ -479,4 +479,6 @@ trello_dict = {
     u"#生活/游 '公园(城市绿心森林公园)'": "https://trello.com/c/IWKRHoCJ",
     u"#生活/用 '名片夹'": "https://trello.com/c/FSMskJyM",
     u"#生活/用 '干电池'": "https://trello.com/c/sfM1WyZL",
+    u"#财经/理财 '养老金'@刘先付": "https://trello.com/c/D3X3UjJV",
+    u"#SDE(Android)/DevEnv 'mstar648'": "https://trello.com/c/vAfLL66g",
 }
