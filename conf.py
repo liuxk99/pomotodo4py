@@ -484,4 +484,5 @@ trello_dict = {
     u"#生命/健康/体检 '服务商(慈铭)'": "https://trello.com/c/olx2BtFO",
     u"#Product(Android)/App 'TvProvider'": "https://trello.com/c/RmSQSWMa",
     u"#生命/健康(刘显珂) '门急诊'": "https://trello.com/c/zWt3s7sR",
+    u"#产品(EUI)/特性 '用户数据'": "https://trello.com/c/2vqqHULD",
 }
