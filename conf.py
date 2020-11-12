@@ -483,4 +483,5 @@ trello_dict = {
     u"#SDE(Android)/DevEnv 'mstar648'": "https://trello.com/c/vAfLL66g",
     u"#生命/健康/体检 '服务商(慈铭)'": "https://trello.com/c/olx2BtFO",
     u"#Product(Android)/App 'TvProvider'": "https://trello.com/c/RmSQSWMa",
+    u"#生命/健康(刘显珂) '门急诊'": "https://trello.com/c/zWt3s7sR",
 }
