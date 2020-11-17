@@ -485,4 +485,5 @@ trello_dict = {
     u"#Product(Android)/App 'TvProvider'": "https://trello.com/c/RmSQSWMa",
     u"#生命/健康(刘显珂) '门急诊'": "https://trello.com/c/zWt3s7sR",
     u"#产品(EUI)/特性 '用户数据'": "https://trello.com/c/2vqqHULD",
+    u"#SWE/Project-Management 'Template'": "https://trello.com/c/tUVb15Gz",
 }
