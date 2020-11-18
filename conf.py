@@ -486,4 +486,8 @@ trello_dict = {
     u"#生命/健康(刘显珂) '门急诊'": "https://trello.com/c/zWt3s7sR",
     u"#产品(EUI)/特性 '用户数据'": "https://trello.com/c/2vqqHULD",
     u"#SWE/Project-Management 'Template'": "https://trello.com/c/tUVb15Gz",
+    u"#软件/应用 '北京交通'": "https://trello.com/c/NVUkgHan",
+    u"#SDE(Android)/开发者 'Debug(adb)'": "https://trello.com/c/oMq2OMH8",
+    u"#人文/政治 '美国大选'": "https://trello.com/c/06YZyrXc",
+    u"#SDE(Android)/测试 '脚本'": "https://trello.com/c/4lAtxpJX",
 }
