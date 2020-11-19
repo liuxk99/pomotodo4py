@@ -490,6 +490,10 @@ trello_dict = {
     u"#SDE(Android)/开发者 'Debug(adb)'": "https://trello.com/c/oMq2OMH8",
     u"#人文/政治 '美国大选'": "https://trello.com/c/06YZyrXc",
     u"#SDE(Android)/测试 '脚本'": "https://trello.com/c/4lAtxpJX",
+    u"#SDE(Android)/Test '脚本'": "https://trello.com/c/4lAtxpJX",
     u"#SDE(Android)/AAF 'package(activity)·Letv-Killer'": "https://trello.com/c/TPA5dkN6",
     u"#人文/地理 '中国·辽宁省·抚顺市'": "https://trello.com/c/TPA5dkN6",
+    u"#DMS(乐视) 'JIRA(GRACE-803)'": "https://trello.com/c/ysH1pLaM",
+    u"#SDE(Android)/Test 'UiAutomator'": "https://trello.com/c/q7G7fKJR",
+    u"#SDE(Android)/Security 'SeLinux'": "https://trello.com/c/GAlv9NMu",
 }
