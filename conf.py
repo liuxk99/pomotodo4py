@@ -496,4 +496,6 @@ trello_dict = {
     u"#DMS(乐视) 'JIRA(GRACE-803)'": "https://trello.com/c/ysH1pLaM",
     u"#SDE(Android)/Test 'UiAutomator'": "https://trello.com/c/q7G7fKJR",
     u"#SDE(Android)/Security 'SeLinux'": "https://trello.com/c/GAlv9NMu",
+    u"#SDE(Android)/Security 'SePolicy'": "https://trello.com/c/GAlv9NMu",
+    u"#SW/Service '中国银行'": "https://trello.com/c/ZnHNTfGL",
 }
