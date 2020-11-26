@@ -498,4 +498,5 @@ trello_dict = {
     u"#SDE(Android)/Security 'SeLinux'": "https://trello.com/c/GAlv9NMu",
     u"#SDE(Android)/Security 'SePolicy'": "https://trello.com/c/GAlv9NMu",
     u"#SW/Service '中国银行'": "https://trello.com/c/ZnHNTfGL",
+    u"#Programmer/DTC/SA 'OpenGrok'": "https://trello.com/c/X1WHYgm1",
 }
