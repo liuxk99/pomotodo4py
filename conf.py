@@ -500,4 +500,5 @@ trello_dict = {
     u"#SW/Service '中国银行'": "https://trello.com/c/ZnHNTfGL",
     u"#Programmer/DTC/SA 'OpenGrok'": "https://trello.com/c/X1WHYgm1",
     u"#人文/地理 '中国·辽宁省·大连市'": "https://trello.com/c/UUe4NA0E",
+    u"#软件/应用 '平安好生活'": "https://trello.com/c/hsZKzQ3G",
 }
