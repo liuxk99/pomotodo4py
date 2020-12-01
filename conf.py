@@ -502,4 +502,5 @@ trello_dict = {
     u"#人文/地理 '中国·辽宁省·大连市'": "https://trello.com/c/UUe4NA0E",
     u"#软件/应用 '平安好生活'": "https://trello.com/c/hsZKzQ3G",
     u"#生活/行/车(福特·蒙迪欧) '车险'": "https://trello.com/c/W1avY7Ij",
+    u"#软件/应用 'Web浏览器(Chrome)'": "https://trello.com/c/x7H5hwJa",
 }
