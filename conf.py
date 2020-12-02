@@ -502,4 +502,6 @@ trello_dict = {
     u"#软件/应用 '平安好生活'": "https://trello.com/c/hsZKzQ3G",
     u"#生活/行/车(福特·蒙迪欧) '车险'": "https://trello.com/c/W1avY7Ij",
     u"#软件/应用 'Web浏览器(Chrome)'": "https://trello.com/c/x7H5hwJa",
+    u"#DMS(乐视) 'JIRA(MEMBACCOUNT-125)'": "https://trello.com/c/Rwk6okHE",
+    u"#ADE(Android)/DTC 'signapk'": "https://trello.com/c/nSMqKmYY",
 }
