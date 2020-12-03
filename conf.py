@@ -504,4 +504,5 @@ trello_dict = {
     u"#软件/应用 'Web浏览器(Chrome)'": "https://trello.com/c/x7H5hwJa",
     u"#DMS(乐视) 'JIRA(MEMBACCOUNT-125)'": "https://trello.com/c/Rwk6okHE",
     u"#ADE(Android)/DTC 'signapk'": "https://trello.com/c/nSMqKmYY",
+    u"#生活/用 '晾衣架'": "https://trello.com/c/GRZWCrZn",
 }
