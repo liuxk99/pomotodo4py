@@ -507,4 +507,5 @@ trello_dict = {
     u"#生活/用 '晾衣架'": "https://trello.com/c/GRZWCrZn",
     u"#DMS(乐视) 'JIRA(GRACE-858)'": "https://trello.com/c/6fHo4ekH",
     u"#社交/同事 '马宏阳'": "https://trello.com/c/o6MyRXDT",
+    u"#生活/行/车(比亚迪·秦) '轮胎": "https://trello.com/c/VUzPj4IW",
 }
