@@ -506,4 +506,5 @@ trello_dict = {
     u"#ADE(Android)/DTC 'signapk'": "https://trello.com/c/nSMqKmYY",
     u"#生活/用 '晾衣架'": "https://trello.com/c/GRZWCrZn",
     u"#DMS(乐视) 'JIRA(GRACE-858)'": "https://trello.com/c/6fHo4ekH",
+    u"#社交/同事 '马宏阳'": "https://trello.com/c/o6MyRXDT",
 }
