@@ -508,4 +508,7 @@ trello_dict = {
     u"#DMS(乐视) 'JIRA(GRACE-858)'": "https://trello.com/c/6fHo4ekH",
     u"#社交/同事 '马宏阳'": "https://trello.com/c/o6MyRXDT",
     u"#生活/行/车(比亚迪·秦) '轮胎": "https://trello.com/c/VUzPj4IW",
+    u"#生活/医/诊所 '北京大学口腔医院·第二门诊部'": "https://trello.com/c/AuHoHgz6",
+    u"#技术 '专利'": "https://trello.com/c/jvjR5WM1",
+    u"#平台/AmlT920L '特性(厂测)'": "https://trello.com/c/fyN5ejIr",
 }
