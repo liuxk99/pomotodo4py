@@ -511,4 +511,7 @@ trello_dict = {
     u"#生活/医/诊所 '北京大学口腔医院·第二门诊部'": "https://trello.com/c/AuHoHgz6",
     u"#技术 '专利'": "https://trello.com/c/jvjR5WM1",
     u"#平台/AmlT920L '特性(厂测)'": "https://trello.com/c/fyN5ejIr",
+    u"#财经/保险@周先安 '医疗(新农合)'": "https://trello.com/c/b4DfX7iD",
+    u"#财经/保险@刘先付 '医疗(新农合)'": "https://trello.com/c/V12RGOox",
+    u"#生活/住/五金 '门锁(球形门锁)'": "https://trello.com/c/bYyI6uUm",
 }
