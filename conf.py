@@ -514,4 +514,5 @@ trello_dict = {
     u"#财经/保险@周先安 '医疗(新农合)'": "https://trello.com/c/b4DfX7iD",
     u"#财经/保险@刘先付 '医疗(新农合)'": "https://trello.com/c/V12RGOox",
     u"#生活/住/五金 '门锁(球形门锁)'": "https://trello.com/c/bYyI6uUm",
+    u"#软件/应用 '学习通'": "https://trello.com/c/M60TjSVG",
 }
