@@ -521,4 +521,8 @@ trello_dict = {
     u"#人文/哲学/方法学 '知识库'": "https://trello.com/c/Lqma1N4D",
     u"#生活/购 '商场(龙湖长楹天街)'": "https://trello.com/c/OtlUNCz3",
     u"#软件/服务 '哗啦啦电子发票'": "https://trello.com/c/4eTeoYuK",
+    u"#SDE(Android)/cmds 'recovery'": "https://trello.com/c/U3LPj9gy",
+    u"#软件/应用 '滴滴出行'": "https://trello.com/c/EivKQh4A",
+    u"#SDE(Android)/Native 'binary(master_clear)'": "https://trello.com/c/dbOvHmBW",
+    u"#SDE(Android)/Native 'toolbox'": "https://trello.com/c/qUJLAaZg",
 }
