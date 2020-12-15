@@ -519,4 +519,6 @@ trello_dict = {
     u"#软件/服务 '我的发票'": "https://trello.com/c/pffpwpZd",
     u"#DMS(乐视) 'JIRA(GRACE-60)'": "https://trello.com/c/TtHTlRWy",
     u"#人文/哲学/方法学 '知识库'": "https://trello.com/c/Lqma1N4D",
+    u"#生活/购 '商场(龙湖长楹天街)'": "https://trello.com/c/OtlUNCz3",
+    u"#软件/服务 '哗啦啦电子发票'": "https://trello.com/c/4eTeoYuK",
 }
