@@ -515,4 +515,8 @@ trello_dict = {
     u"#财经/保险@刘先付 '医疗(新农合)'": "https://trello.com/c/V12RGOox",
     u"#生活/住/五金 '门锁(球形门锁)'": "https://trello.com/c/bYyI6uUm",
     u"#软件/应用 '学习通'": "https://trello.com/c/M60TjSVG",
+    u"#财经/金融 '银行(招商)'@刘显珂": "https://trello.com/c/twnzfc9w",
+    u"#软件/服务 '我的发票'": "https://trello.com/c/pffpwpZd",
+    u"#DMS(乐视) 'JIRA(GRACE-60)'": "https://trello.com/c/TtHTlRWy",
+    u"#人文/哲学/方法学 '知识库'": "https://trello.com/c/Lqma1N4D",
 }
