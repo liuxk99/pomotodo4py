@@ -525,4 +525,5 @@ trello_dict = {
     u"#软件/应用 '滴滴出行'": "https://trello.com/c/EivKQh4A",
     u"#SDE(Android)/Native 'binary(master_clear)'": "https://trello.com/c/dbOvHmBW",
     u"#SDE(Android)/Native 'toolbox'": "https://trello.com/c/qUJLAaZg",
+    u"#SDE(Android)/AAF 'service(sensor)'": "https://trello.com/c/6UFl4xCp",
 }
