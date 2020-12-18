@@ -526,4 +526,5 @@ trello_dict = {
     u"#SDE(Android)/Native 'binary(master_clear)'": "https://trello.com/c/dbOvHmBW",
     u"#SDE(Android)/Native 'toolbox'": "https://trello.com/c/qUJLAaZg",
     u"#SDE(Android)/AAF 'service(sensor)'": "https://trello.com/c/6UFl4xCp",
+    u"#SDE(Android)/Native 'applet(hello)'": "https://trello.com/c/25jAGLaY",
 }
