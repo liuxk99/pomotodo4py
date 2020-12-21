@@ -527,4 +527,8 @@ trello_dict = {
     u"#SDE(Android)/Native 'toolbox'": "https://trello.com/c/qUJLAaZg",
     u"#SDE(Android)/AAF 'service(sensor)'": "https://trello.com/c/6UFl4xCp",
     u"#SDE(Android)/Native 'applet(hello)'": "https://trello.com/c/25jAGLaY",
+    u"#公司(乐融) '管理'": "https://trello.com/c/KBhoBKHl",
+    u"#DMS(乐视) 'JIRA(GAE-227)'": "https://trello.com/c/9kg0gk8E",
+    u"#Programmer/DTC/Database(sqlite) 'sqlite3'": "https://trello.com/c/jrMjZw34",
+    u"#Programmer/DTC/Database(sqlite) 'DB Browser for SQLite'": "https://trello.com/c/bhnajF1S",
 }
