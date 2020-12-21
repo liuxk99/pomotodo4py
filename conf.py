@@ -531,4 +531,6 @@ trello_dict = {
     u"#DMS(乐视) 'JIRA(GAE-227)'": "https://trello.com/c/9kg0gk8E",
     u"#Programmer/DTC/Database(sqlite) 'sqlite3'": "https://trello.com/c/jrMjZw34",
     u"#Programmer/DTC/Database(sqlite) 'DB Browser for SQLite'": "https://trello.com/c/bhnajF1S",
+    u"#产品(EUI)/FW 'Launcher'": "https://trello.com/c/ubmCqQOK",
+    u"#产品(EUI)/App 'FactoryTest'": "https://trello.com/c/z5tHt0GP",
 }
