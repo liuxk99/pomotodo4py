@@ -533,4 +533,5 @@ trello_dict = {
     u"#Programmer/DTC/Database(sqlite) 'DB Browser for SQLite'": "https://trello.com/c/bhnajF1S",
     u"#产品(EUI)/FW 'Launcher'": "https://trello.com/c/ubmCqQOK",
     u"#产品(EUI)/App 'FactoryTest'": "https://trello.com/c/z5tHt0GP",
+    u"#生活/住/房 '珠江丽景家园(36#1-307)'": "https://trello.com/c/t2aYIaPd",
 }
