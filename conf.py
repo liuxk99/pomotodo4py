@@ -534,4 +534,5 @@ trello_dict = {
     u"#产品(EUI)/FW 'Launcher'": "https://trello.com/c/ubmCqQOK",
     u"#产品(EUI)/App 'FactoryTest'": "https://trello.com/c/z5tHt0GP",
     u"#生活/住/房 '珠江丽景家园(36#1-307)'": "https://trello.com/c/t2aYIaPd",
+    u"#生活/用/快递 '中国邮政(疃里邮政所)'": "https://trello.com/c/IAS8d90p",
 }
