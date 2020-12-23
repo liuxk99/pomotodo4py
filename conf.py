@@ -537,4 +537,5 @@ trello_dict = {
     u"#生活/用/快递 '中国邮政(疃里邮政所)'": "https://trello.com/c/IAS8d90p",
     u"#公司(乐融)/团队(FW) '业务'": "https://trello.com/c/CEkcZKMG",
     u"#人文/地理 '中国·陕西省·西安市'": "https://trello.com/c/RfY7JNnx",
+    u"#SW/OS(Unix)/cmd 'curl'": "https://trello.com/c/NmiQ6noZ",
 }
