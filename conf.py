@@ -538,4 +538,7 @@ trello_dict = {
     u"#公司(乐融)/团队(FW) '业务'": "https://trello.com/c/CEkcZKMG",
     u"#人文/地理 '中国·陕西省·西安市'": "https://trello.com/c/RfY7JNnx",
     u"#SW/OS(Unix)/cmd 'curl'": "https://trello.com/c/NmiQ6noZ",
+    u"#产品(Android)/规划 '分区'": "https://trello.com/c/SrpWXwvp",
+    u"#软件/工具 'Id-Auth'": "https://trello.com/c/WX7HjIei",
+    u"#生活/用 '电动足浴盆'": "https://trello.com/c/AJP1QBSy",
 }
