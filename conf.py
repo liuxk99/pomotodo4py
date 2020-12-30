@@ -542,4 +542,6 @@ trello_dict = {
     u"#软件/工具 'Id-Auth'": "https://trello.com/c/WX7HjIei",
     u"#生活/用 '电动足浴盆'": "https://trello.com/c/AJP1QBSy",
     u"#产品(EUI)/应用 '乐乐语音'": "https://trello.com/c/kkMmWY9A",
+    u"#生活/衣 '品牌(金羽杰)'": "https://trello.com/c/FU5b1z8f",
+    u"#产品/手机 '华为(P40 Pro)'": "https://trello.com/c/lKB76HrJ",
 }
