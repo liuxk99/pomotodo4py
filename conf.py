@@ -545,4 +545,6 @@ trello_dict = {
     u"#生活/衣 '品牌(金羽杰)'": "https://trello.com/c/FU5b1z8f",
     u"#产品/手机 '华为(P40 Pro)'": "https://trello.com/c/lKB76HrJ",
     u"#产品(EUI)/定制 '需求'": "https://trello.com/c/epGAPoKs",
+    u"#ADE(Android)/lib 'Calendar'": "https://trello.com/c/Xoa4h8jN",
+    u"#社交/亲 '兄(刘显丕)'": "https://trello.com/c/UCBIIbWg",
 }
