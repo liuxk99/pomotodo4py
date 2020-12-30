@@ -541,4 +541,5 @@ trello_dict = {
     u"#产品(Android)/规划 '分区'": "https://trello.com/c/SrpWXwvp",
     u"#软件/工具 'Id-Auth'": "https://trello.com/c/WX7HjIei",
     u"#生活/用 '电动足浴盆'": "https://trello.com/c/AJP1QBSy",
+    u"#产品(EUI)/应用 '乐乐语音'": "https://trello.com/c/kkMmWY9A",
 }
