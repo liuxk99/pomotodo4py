@@ -544,4 +544,5 @@ trello_dict = {
     u"#产品(EUI)/应用 '乐乐语音'": "https://trello.com/c/kkMmWY9A",
     u"#生活/衣 '品牌(金羽杰)'": "https://trello.com/c/FU5b1z8f",
     u"#产品/手机 '华为(P40 Pro)'": "https://trello.com/c/lKB76HrJ",
+    u"#产品(EUI)/定制 '需求'": "https://trello.com/c/epGAPoKs",
 }
