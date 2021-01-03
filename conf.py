@@ -547,4 +547,7 @@ trello_dict = {
     u"#产品(EUI)/定制 '需求'": "https://trello.com/c/epGAPoKs",
     u"#ADE(Android)/lib 'Calendar'": "https://trello.com/c/Xoa4h8jN",
     u"#社交/亲 '兄(刘显丕)'": "https://trello.com/c/UCBIIbWg",
+    u"#产品(EUI)/App '电视管家'": "https://trello.com/c/3Vt7jZxR",
+    u"#财经/保险 '险种(阳光人寿i客保终身重大疾病保险)'": "https://trello.com/c/9o0wmoK1",
+    u"#Programmer/DTC/Comparer 'Beyond Compare'": "https://trello.com/c/KeotggRY",
 }
