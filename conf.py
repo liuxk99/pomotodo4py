@@ -552,4 +552,5 @@ trello_dict = {
     u"#Programmer/DTC/Comparer 'Beyond Compare'": "https://trello.com/c/KeotggRY",
     u"#人文/地理 '中国·陕西省·铜川市'": "https://trello.com/c/F8cRFaXL",
     u"#Programmer/DTC 'Cygwin'": "https://trello.com/c/jLE4oW1O",
+    u"#生命/健康/医 '医院(北京友谊医院)'": "https://trello.com/c/r4AmfkpI",
 }
