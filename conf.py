@@ -550,4 +550,6 @@ trello_dict = {
     u"#产品(EUI)/App '电视管家'": "https://trello.com/c/3Vt7jZxR",
     u"#财经/保险 '险种(阳光人寿i客保终身重大疾病保险)'": "https://trello.com/c/9o0wmoK1",
     u"#Programmer/DTC/Comparer 'Beyond Compare'": "https://trello.com/c/KeotggRY",
+    u"#人文/地理 '中国·陕西省·铜川市'": "https://trello.com/c/F8cRFaXL",
+    u"#Programmer/DTC 'Cygwin'": "https://trello.com/c/jLE4oW1O",
 }
