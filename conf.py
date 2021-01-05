@@ -554,4 +554,6 @@ trello_dict = {
     u"#Programmer/DTC 'Cygwin'": "https://trello.com/c/jLE4oW1O",
     u"#生命/健康/医 '医院(北京友谊医院)'": "https://trello.com/c/r4AmfkpI",
     u"#生活/用/手机 'vivo X21A'": "https://trello.com/c/4zdW04X8",
+    u"#DMS(乐视) 'JIRA(GAE-278)'": "https://trello.com/c/z0ilz3np",
+    u"#项目(TV)/平台 'AmlT972'": "https://trello.com/c/zNhQ7crm",
 }
