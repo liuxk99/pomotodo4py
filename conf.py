@@ -556,4 +556,6 @@ trello_dict = {
     u"#生活/用/手机 'vivo X21A'": "https://trello.com/c/4zdW04X8",
     u"#DMS(乐视) 'JIRA(GAE-278)'": "https://trello.com/c/z0ilz3np",
     u"#项目(TV)/平台 'AmlT972'": "https://trello.com/c/zNhQ7crm",
+    u"#ADE(Java)/Lib 'zip'": "https://trello.com/c/gMVA5m8r",
+    u"#软件/应用 '工资计算器'": "https://trello.com/c/sW9HSO8s",
 }
