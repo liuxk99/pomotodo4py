@@ -558,4 +558,7 @@ trello_dict = {
     u"#项目(TV)/平台 'AmlT972'": "https://trello.com/c/zNhQ7crm",
     u"#ADE(Java)/Lib 'zip'": "https://trello.com/c/gMVA5m8r",
     u"#软件/应用 '工资计算器'": "https://trello.com/c/sW9HSO8s",
+    u"#SDE(Android)/DTC 'cmd(recovery)'": "https://trello.com/c/U3LPj9gy",
+    u"#SDE(Android)/Native 'applet(master_clear)'": "https://trello.com/c/dbOvHmBW",
+    u"#SDE(Android)/init 'service(console)'": "https://trello.com/c/8aVhqNWC",
 }
