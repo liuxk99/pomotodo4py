@@ -565,4 +565,8 @@ trello_dict = {
     u"#DMS(乐视) 'JIRA(JXSPCHECK-95)'": "https://trello.com/c/0DkUOx9N",
     u"#DMS(乐视) 'JIRA(JXSPCHECK-96)'": "https://trello.com/c/0YwE0a9U",
     u"#SDE(Linux)/kernel 'printk'": "https://trello.com/c/tjQszFEv",
+    u"#生命/健康 '体检'@穆娟": "https://trello.com/c/rJAk6wIU",
+    u"#软件/文档 '格式(pdf)'": "https://trello.com/c/Mj2YmYJB",
+    u"#生活/游 '公园(月亮河)'": "https://trello.com/c/gUx9n9CM",
+    u"#软件/应用 'Id-Auth'": "https://trello.com/c/6KehiqUQ",
 }
