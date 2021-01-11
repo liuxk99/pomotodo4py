@@ -561,4 +561,7 @@ trello_dict = {
     u"#SDE(Android)/DTC 'cmd(recovery)'": "https://trello.com/c/U3LPj9gy",
     u"#SDE(Android)/Native 'applet(master_clear)'": "https://trello.com/c/dbOvHmBW",
     u"#SDE(Android)/init 'service(console)'": "https://trello.com/c/8aVhqNWC",
+    u"#DMS(乐视) 'JIRA(JXSPCHECK-83)'": "https://trello.com/c/TVf92S2a",
+    u"#DMS(乐视) 'JIRA(JXSPCHECK-95)'": "https://trello.com/c/0DkUOx9N",
+    u"#DMS(乐视) 'JIRA(JXSPCHECK-96)'": "https://trello.com/c/0YwE0a9U",
 }
