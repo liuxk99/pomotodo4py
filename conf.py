@@ -570,4 +570,5 @@ trello_dict = {
     u"#生活/游 '公园(月亮河)'": "https://trello.com/c/gUx9n9CM",
     u"#软件/应用 'Id-Auth'": "https://trello.com/c/6KehiqUQ",
     u"#软件/服务 '华为账号'@穆娟": "https://trello.com/c/WDr6QvNL",
+    u"#SDE(Android)/特性(开发者) 'Debug(adb)'": "https://trello.com/c/oMq2OMH8",
 }
