@@ -571,4 +571,6 @@ trello_dict = {
     u"#软件/应用 'Id-Auth'": "https://trello.com/c/6KehiqUQ",
     u"#软件/服务 '华为账号'@穆娟": "https://trello.com/c/WDr6QvNL",
     u"#SDE(Android)/特性(开发者) 'Debug(adb)'": "https://trello.com/c/oMq2OMH8",
+    u"#SDE(Android)/特性(开发者) 'Debug(console)'": "https://trello.com/c/UGSybqUZ",
+    u"#软件/应用 '国家医保服务平台'": "https://trello.com/c/NYfsRwMU",
 }
