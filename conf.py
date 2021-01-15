@@ -573,4 +573,6 @@ trello_dict = {
     u"#SDE(Android)/特性(开发者) 'Debug(adb)'": "https://trello.com/c/oMq2OMH8",
     u"#SDE(Android)/特性(开发者) 'Debug(console)'": "https://trello.com/c/UGSybqUZ",
     u"#软件/应用 '国家医保服务平台'": "https://trello.com/c/NYfsRwMU",
+    u"#DMS(乐视) 'JIRA(GAE-326)'": "https://trello.com/c/7futZlJa",
+    u"#公司(乐融致新)/管理 '人力资源(员工年度复盘)'": "https://trello.com/c/IKeBRPZG",
 }
