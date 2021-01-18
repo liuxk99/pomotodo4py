@@ -577,4 +577,5 @@ trello_dict = {
     u"#公司(乐融致新)/管理 '人力资源(员工年度复盘)'": "https://trello.com/c/IKeBRPZG",
     u"#软件开发/过程 '方法论'": "https://trello.com/c/68HHLENW",
     u"#时间管理/工具 'Trello'": "https://trello.com/c/na3XpnZf",
+    u"#生命/健康/医疗/机构 '医院(北京大学口腔医院)'·": "https://trello.com/c/qbI7bBNa",
 }
