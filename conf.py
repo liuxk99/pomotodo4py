@@ -575,4 +575,6 @@ trello_dict = {
     u"#软件/应用 '国家医保服务平台'": "https://trello.com/c/NYfsRwMU",
     u"#DMS(乐视) 'JIRA(GAE-326)'": "https://trello.com/c/7futZlJa",
     u"#公司(乐融致新)/管理 '人力资源(员工年度复盘)'": "https://trello.com/c/IKeBRPZG",
+    u"#软件开发/过程 '方法论'": "https://trello.com/c/68HHLENW",
+    u"#时间管理/工具 'Trello'": "https://trello.com/c/na3XpnZf",
 }
