@@ -580,4 +580,6 @@ trello_dict = {
     u"#生命/健康/医疗/机构 '医院(北京大学口腔医院)'·": "https://trello.com/c/qbI7bBNa",
     u"#生命/健康/医疗/机构 '医院(通州区妇幼保健院)'·": "https://trello.com/c/nJlnMX4E",
     u"#生命/健康(周先安) '门急诊'·": "https://trello.com/c/5kZotcVW",
+    u"#公司(乐融致新)/管理 '绩效'·": "https://trello.com/c/pAamHnfi",
+    u"#SDE(Android)/特性 'Connectivity'·": "https://trello.com/c/xAhksFrr",
 }
