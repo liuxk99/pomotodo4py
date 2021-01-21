@@ -582,4 +582,7 @@ trello_dict = {
     u"#生命/健康(周先安) '门急诊'·": "https://trello.com/c/5kZotcVW",
     u"#公司(乐融致新)/管理 '绩效'·": "https://trello.com/c/pAamHnfi",
     u"#SDE(Android)/特性 'Connectivity'·": "https://trello.com/c/xAhksFrr",
+    u"#软件/应用 '平安好车主'·": "https://trello.com/c/SFTtwY8D",
+    u"#产品(EUI)/App 'SmartControl'·": "https://trello.com/c/QfsuPXzs",
+    u"#社会/防疫 '大规模筛查检测'·": "https://trello.com/c/ahtNkelE",
 }
