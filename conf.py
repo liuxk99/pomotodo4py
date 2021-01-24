@@ -586,4 +586,5 @@ trello_dict = {
     u"#产品(EUI)/App 'SmartControl'·": "https://trello.com/c/QfsuPXzs",
     u"#社会/防疫 '大规模筛查检测'·": "https://trello.com/c/ahtNkelE",
     u"#SDE(Android)/Test '脚本(自动升级)'·": "https://trello.com/c/cRPG9yQ2",
+    u"#SDE(Android)/cmds 'bootanimation'·": "https://trello.com/c/wM2EMxEW",
 }
