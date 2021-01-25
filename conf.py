@@ -587,4 +587,9 @@ trello_dict = {
     u"#社会/防疫 '大规模筛查检测'·": "https://trello.com/c/ahtNkelE",
     u"#SDE(Android)/Test '脚本(自动升级)'·": "https://trello.com/c/cRPG9yQ2",
     u"#SDE(Android)/cmds 'bootanimation'·": "https://trello.com/c/wM2EMxEW",
+    u"#生活/行/车(福特·蒙迪欧) '年检'·": "https://trello.com/c/NFftQINS",
+    u"#生活/行/机动车 '检车场(兴通爱民机动车检测场)'·": "https://trello.com/c/4tB1z6yJ",
+    u"#软件/应用 '摩拜单车'·": "https://trello.com/c/1O3pyM6V",
+    u"#软件/应用 '易到用车'·": "https://trello.com/c/K64f9cmZ",
+    u"#生活/用 '整理'·": "https://trello.com/c/AMvcst42",
 }
