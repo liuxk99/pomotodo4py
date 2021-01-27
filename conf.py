@@ -592,4 +592,6 @@ trello_dict = {
     u"#软件/应用 '摩拜单车'·": "https://trello.com/c/1O3pyM6V",
     u"#软件/应用 '易到用车'·": "https://trello.com/c/K64f9cmZ",
     u"#生活/用 '整理'·": "https://trello.com/c/AMvcst42",
+    u"#生活/行 '写字楼(乐融大厦)'·": "https://trello.com/c/xw0EBpB1",
+    u"#DMS(乐视) 'JIRA(DEMETER-76827)'·": "https://trello.com/c/L1lhjvNd",
 }
