@@ -596,4 +596,5 @@ trello_dict = {
     u"#DMS(乐视) 'JIRA(DEMETER-76827)'·": "https://trello.com/c/L1lhjvNd",
     u"#生活/行 '停车位(珠江丽景家园-南库B1-140)'·": "https://trello.com/c/lxWT3Uqr",
     u"#社交/亲 '刘先付'·": "https://trello.com/c/KF4rsyP0",
+    u"#SDE(Android)/native 'init'·": "https://trello.com/c/6KQ5etnU",
 }
