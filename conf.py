@@ -597,4 +597,6 @@ trello_dict = {
     u"#生活/行 '停车位(珠江丽景家园-南库B1-140)'·": "https://trello.com/c/lxWT3Uqr",
     u"#社交/亲 '刘先付'·": "https://trello.com/c/KF4rsyP0",
     u"#SDE(Android)/native 'init'·": "https://trello.com/c/6KQ5etnU",
+    u"#生活/行 '写字楼(伊莎文心广场)'·": "https://trello.com/c/haZHEGvg",
+    u"#SDE(Android)/特性(开发者) 'property'·": "https://trello.com/c/a8uzCTO7",
 }
