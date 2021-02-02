@@ -599,4 +599,5 @@ trello_dict = {
     u"#SDE(Android)/native 'init'·": "https://trello.com/c/6KQ5etnU",
     u"#生活/行 '写字楼(伊莎文心广场)'·": "https://trello.com/c/haZHEGvg",
     u"#SDE(Android)/特性(开发者) 'property'·": "https://trello.com/c/a8uzCTO7",
+    u"#产品(EUI)/特性 'videoplayermanager'·": "https://trello.com/c/bwplnHSN",
 }
