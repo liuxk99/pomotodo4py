@@ -601,4 +601,6 @@ trello_dict = {
     u"#SDE(Android)/特性(开发者) 'property'·": "https://trello.com/c/a8uzCTO7",
     u"#产品(EUI)/特性 'videoplayermanager'·": "https://trello.com/c/bwplnHSN",
     u"#生活/乐/电影院 '米瑞酷影城(乔庄店)'·": "https://trello.com/c/IsMo08Ao",
+    u"#SDE(Linux)/DTC 'dmesg'·": "https://trello.com/c/tHWc1Het",
+    u"#DMS(乐视) 'JIRA(GRACE-919)'·": "https://trello.com/c/TaZwIGhx",
 }
