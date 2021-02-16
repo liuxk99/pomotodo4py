@@ -603,4 +603,5 @@ trello_dict = {
     u"#生活/乐/电影院 '米瑞酷影城(乔庄店)'·": "https://trello.com/c/IsMo08Ao",
     u"#SDE(Linux)/DTC 'dmesg'·": "https://trello.com/c/tHWc1Het",
     u"#DMS(乐视) 'JIRA(GRACE-919)'·": "https://trello.com/c/TaZwIGhx",
+    u"#财经/金融/服务 '微信支付'·": "https://trello.com/c/AINHrHwm",
 }
