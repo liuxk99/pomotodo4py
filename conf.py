@@ -604,4 +604,6 @@ trello_dict = {
     u"#SDE(Linux)/DTC 'dmesg'·": "https://trello.com/c/tHWc1Het",
     u"#DMS(乐视) 'JIRA(GRACE-919)'·": "https://trello.com/c/TaZwIGhx",
     u"#财经/金融/服务 '微信支付'·": "https://trello.com/c/AINHrHwm",
+    u"#DMS(乐视) 'JIRA(METIS-1206)'·": "https://trello.com/c/a8lGfM6l",
+    u"#社交/友 '程宝'·": "https://trello.com/c/xeVkqnUq",
 }
