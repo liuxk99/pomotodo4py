@@ -606,4 +606,6 @@ trello_dict = {
     u"#财经/金融/服务 '微信支付'·": "https://trello.com/c/AINHrHwm",
     u"#DMS(乐视) 'JIRA(METIS-1206)'·": "https://trello.com/c/a8lGfM6l",
     u"#社交/友 '程宝'·": "https://trello.com/c/xeVkqnUq",
+    u"#公司(乐友孕婴童)/IT 'VPN'·": "https://trello.com/c/Cdah6EWs",
+    u"#人文/教育/编程 'scratch'·": "https://trello.com/c/yxU94p3e",
 }
