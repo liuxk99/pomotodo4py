@@ -609,4 +609,7 @@ trello_dict = {
     u"#公司(乐友孕婴童)/IT 'VPN'·": "https://trello.com/c/Cdah6EWs",
     u"#人文/教育/编程 'scratch'·": "https://trello.com/c/yxU94p3e",
     u"#软件/应用 '首都疫苗服务'·": "https://trello.com/c/1KocJL2A",
+    u"#SW/Service '邮政储蓄银行'@周先安·": "https://trello.com/c/0gwqZtMz",
+    u"#生活/乐 '烟花爆竹'·": "https://trello.com/c/AmdqVhAL",
+    u"#生活/用/家具 '宝宝餐椅'": "https://trello.com/c/zAlUQ8CT",
 }
