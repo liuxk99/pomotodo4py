@@ -612,4 +612,5 @@ trello_dict = {
     u"#SW/Service '邮政储蓄银行'@周先安·": "https://trello.com/c/0gwqZtMz",
     u"#生活/乐 '烟花爆竹'·": "https://trello.com/c/AmdqVhAL",
     u"#生活/用/家具 '宝宝餐椅'": "https://trello.com/c/zAlUQ8CT",
+    u"#生活/乐 '团年饭'·": "https://trello.com/c/G1AMaruD",
 }
