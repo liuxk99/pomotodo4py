@@ -608,4 +608,5 @@ trello_dict = {
     u"#社交/友 '程宝'·": "https://trello.com/c/xeVkqnUq",
     u"#公司(乐友孕婴童)/IT 'VPN'·": "https://trello.com/c/Cdah6EWs",
     u"#人文/教育/编程 'scratch'·": "https://trello.com/c/yxU94p3e",
+    u"#软件/应用 '首都疫苗服务'·": "https://trello.com/c/1KocJL2A",
 }
