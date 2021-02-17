@@ -614,4 +614,5 @@ trello_dict = {
     u"#生活/用/家具 '宝宝餐椅'": "https://trello.com/c/zAlUQ8CT",
     u"#生活/乐 '团年饭'·": "https://trello.com/c/G1AMaruD",
     u"#生活/乐 '冰雪世界(第五季生态农场戏雪乐园)'·": "https://trello.com/c/IKHUqgOx",
+    u"#生活/用 '手机(华为P10)'·": "https://trello.com/c/KBxyIKbb",
 }
