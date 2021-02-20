@@ -616,4 +616,5 @@ trello_dict = {
     u"#生活/乐 '冰雪世界(第五季生态农场戏雪乐园)'·": "https://trello.com/c/IKHUqgOx",
     u"#生活/用 '手机(华为P10)'·": "https://trello.com/c/KBxyIKbb",
     u"#SW/Service '钉钉'@刘枢鸿·": "https://trello.com/c/cWxkAwOP",
+    u"#软件/应用 '叮当快药'·": "https://trello.com/c/fOiOQq0t",
 }
