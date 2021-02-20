@@ -258,7 +258,7 @@ trello_dict = {
     u"#生命/健康 '就诊'·策略 @穆娟": "https://trello.com/c/EORJhKUp",
     u"#社交/亲 '子(刘枢睽)'": "https://trello.com/c/YOTOVVpa",
     u"#公司(乐视)/IT '密码'": "https://trello.com/c/LKX1YL9o",
-    u"#SW/Service '钉钉'": "https://trello.com/c/Y1j6XqSy",
+    u"#SW/Service '钉钉'·": "https://trello.com/c/Y1j6XqSy",
     u"#生命/健康(刘枢睽) '门急诊'": "https://trello.com/c/AMLmyEVQ",
     u"#产品(Amlogic)/feature 'SignalSource'": "https://trello.com/c/Calt8xcm",
     u"#社会/证件 '户口'": "https://trello.com/c/7tpLNgWx",
@@ -615,4 +615,5 @@ trello_dict = {
     u"#生活/乐 '团年饭'·": "https://trello.com/c/G1AMaruD",
     u"#生活/乐 '冰雪世界(第五季生态农场戏雪乐园)'·": "https://trello.com/c/IKHUqgOx",
     u"#生活/用 '手机(华为P10)'·": "https://trello.com/c/KBxyIKbb",
+    u"#SW/Service '钉钉'@刘枢鸿·": "https://trello.com/c/cWxkAwOP",
 }
