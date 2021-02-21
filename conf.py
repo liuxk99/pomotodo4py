@@ -617,4 +617,5 @@ trello_dict = {
     u"#生活/用 '手机(华为P10)'·": "https://trello.com/c/KBxyIKbb",
     u"#SW/Service '钉钉'@刘枢鸿·": "https://trello.com/c/cWxkAwOP",
     u"#软件/应用 '叮当快药'·": "https://trello.com/c/fOiOQq0t",
+    u"#财经 '理财'·": "https://trello.com/c/uvs2Tn2i",
 }
