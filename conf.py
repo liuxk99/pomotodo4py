@@ -618,4 +618,9 @@ trello_dict = {
     u"#SW/Service '钉钉'@刘枢鸿·": "https://trello.com/c/cWxkAwOP",
     u"#软件/应用 '叮当快药'·": "https://trello.com/c/fOiOQq0t",
     u"#财经 '理财'·": "https://trello.com/c/uvs2Tn2i",
+    u"#Programmer/DTC/Compiler 'clang'·": "https://trello.com/c/45RbNFnM",
+    u"#生活/用 'USB数据线'·": "https://trello.com/c/682EzEZU",
+    u"#生活/用 '手机(小米6)'·": "https://trello.com/c/3lcgF7hk",
+    u"#生活/用 '充电器'·": "https://trello.com/c/xxFwoiEU",
+    u"#DMS(乐视) 'JIRA(TVSHARE-45409)'·": "https://trello.com/c/T0xUYl2t",
 }
