@@ -623,4 +623,5 @@ trello_dict = {
     u"#生活/用 '手机(小米6)'·": "https://trello.com/c/3lcgF7hk",
     u"#生活/用 '充电器'·": "https://trello.com/c/xxFwoiEU",
     u"#DMS(乐视) 'JIRA(TVSHARE-45409)'·": "https://trello.com/c/T0xUYl2t",
+    u"#DMS(乐视) 'JIRA(GAE-492)'·": "https://trello.com/c/IZDr09YF",
 }
