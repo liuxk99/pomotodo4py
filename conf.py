@@ -624,4 +624,7 @@ trello_dict = {
     u"#生活/用 '充电器'·": "https://trello.com/c/xxFwoiEU",
     u"#DMS(乐视) 'JIRA(TVSHARE-45409)'·": "https://trello.com/c/T0xUYl2t",
     u"#DMS(乐视) 'JIRA(GAE-492)'·": "https://trello.com/c/IZDr09YF",
+    u"#IT/计算资源/PC 'XancL04'·": "https://trello.com/c/0kS6ry91",
+    u"#SW/OS 'Windows'·": "https://trello.com/c/myTY3Cou",
+    u"#HW/计算机/笔记本电脑 'Latitude 3350'": "https://trello.com/c/LOYfvCL5",
 }
