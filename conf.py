@@ -627,4 +627,7 @@ trello_dict = {
     u"#IT/计算资源/PC 'XancL04'·": "https://trello.com/c/0kS6ry91",
     u"#SW/OS 'Windows'·": "https://trello.com/c/myTY3Cou",
     u"#HW/计算机/笔记本电脑 'Latitude 3350'": "https://trello.com/c/LOYfvCL5",
+    u"#生命/健康/药 '同仁堂药店(新城药店)'·": "https://trello.com/c/BNPURhNP",
+    u"#IT/计算资源/PC 'XancL02'·": "https://trello.com/c/Y0B1AOcw",
+    u"#社交/友 '朱祥巍'·": "https://trello.com/c/cZHENa1U",
 }
