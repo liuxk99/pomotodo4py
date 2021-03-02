@@ -630,4 +630,7 @@ trello_dict = {
     u"#生命/健康/药 '同仁堂药店(新城药店)'·": "https://trello.com/c/BNPURhNP",
     u"#IT/计算资源/PC 'XancL02'·": "https://trello.com/c/Y0B1AOcw",
     u"#社交/友 '朱祥巍'·": "https://trello.com/c/cZHENa1U",
+    u"#软件/应用 'shadowsocks'·": "https://trello.com/c/NKKZG3C2",
+    u"#生活/行/车/4S店 '福特(福通高盛4S店)'·": "https://trello.com/c/Pt2w8YpU",
+    u"#Programmer/PLang 'Python'·": "https://trello.com/c/WoZ1GFhu",
 }
