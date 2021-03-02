@@ -633,4 +633,6 @@ trello_dict = {
     u"#软件/应用 'shadowsocks'·": "https://trello.com/c/NKKZG3C2",
     u"#生活/行/车/4S店 '福特(福通高盛4S店)'·": "https://trello.com/c/Pt2w8YpU",
     u"#Programmer/PLang 'Python'·": "https://trello.com/c/WoZ1GFhu",
+    u"#DMS(乐视) 'JIRA(GRACE-934)'·": "https://trello.com/c/t62h4GPi",
+    u"#DMS(乐视) 'JIRA(GRACE-951)'·": "https://trello.com/c/j254hbOm",
 }
