@@ -635,4 +635,6 @@ trello_dict = {
     u"#Programmer/PLang 'Python'·": "https://trello.com/c/WoZ1GFhu",
     u"#DMS(乐视) 'JIRA(GRACE-934)'·": "https://trello.com/c/t62h4GPi",
     u"#DMS(乐视) 'JIRA(GRACE-951)'·": "https://trello.com/c/j254hbOm",
+    u"#DMS(乐视) 'JIRA(GAE-542)'·": "https://trello.com/c/ZBXlWC2R",
+    u"#Programmer/Lib 'sjlog4cxx'·": "https://trello.com/c/17z1fsgH",
 }
