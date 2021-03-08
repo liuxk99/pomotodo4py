@@ -637,4 +637,6 @@ trello_dict = {
     u"#DMS(乐视) 'JIRA(GRACE-951)'·": "https://trello.com/c/j254hbOm",
     u"#DMS(乐视) 'JIRA(GAE-542)'·": "https://trello.com/c/ZBXlWC2R",
     u"#Programmer/Lib 'sjlog4cxx'·": "https://trello.com/c/17z1fsgH",
+    u"#SDE(Android)/DTC 'Build(Android.bp)'·": "https://trello.com/c/L4AUeZAy",
+    u"#软件/应用 'SecureCRT'·": "https://trello.com/c/w4qhnP6r",
 }
