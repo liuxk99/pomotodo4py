@@ -643,4 +643,6 @@ trello_dict = {
     u"#生活/行 '地点(北方华鹏4S店)'·": "https://trello.com/c/1QTxZn75",
     u"#软件/应用 '[Easy Connect]'·": "https://trello.com/c/hGHdbDkc",
     u"#知识产权 '软件著作权'·": "https://trello.com/c/6xL8UrVE",
+    u"#ADE(Python)/OS 'Ubuntu'·": "https://trello.com/c/5sZNS1Yz",
+    u"#SW/虚拟化 'virtualbox'·": "https://trello.com/c/5sZNS1Yz",
 }
