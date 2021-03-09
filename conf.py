@@ -641,4 +641,5 @@ trello_dict = {
     u"#软件/应用 'SecureCRT'·": "https://trello.com/c/w4qhnP6r",
     u"#社交/同事 '安伯超'·": "https://trello.com/c/SR02bJu1",
     u"#生活/行 '地点(北方华鹏4S店)'·": "https://trello.com/c/1QTxZn75",
+    u"#软件/应用 '[Easy Connect]'·": "https://trello.com/c/hGHdbDkc",
 }
