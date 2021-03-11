@@ -644,5 +644,6 @@ trello_dict = {
     u"#软件/应用 '[Easy Connect]'·": "https://trello.com/c/hGHdbDkc",
     u"#知识产权 '软件著作权'·": "https://trello.com/c/6xL8UrVE",
     u"#ADE(Python)/OS 'Ubuntu'·": "https://trello.com/c/5sZNS1Yz",
-    u"#SW/虚拟化 'virtualbox'·": "https://trello.com/c/5sZNS1Yz",
+    u"#SW/虚拟化 'virtualbox'·": "https://trello.com/c/gwHnKC72",
+    u"#Programmer/DTC/CL 'mingw'·": "https://trello.com/c/TLxcP24n",
 }
