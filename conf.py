@@ -646,4 +646,7 @@ trello_dict = {
     u"#ADE(Python)/OS 'Ubuntu'·": "https://trello.com/c/5sZNS1Yz",
     u"#SW/虚拟化 'virtualbox'·": "https://trello.com/c/gwHnKC72",
     u"#Programmer/DTC/CL 'mingw'·": "https://trello.com/c/TLxcP24n",
+    u"#SW/OS 'Windows(10)'·": "https://trello.com/c/myTY3Cou",
+    u"#SW/OS 'Ubuntu'·": "https://trello.com/c/3Lfl0BEm",
+    u"#软件/应用 '叮咚买菜'·": "https://trello.com/c/U43NITLI",
 }
