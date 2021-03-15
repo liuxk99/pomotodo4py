@@ -651,4 +651,5 @@ trello_dict = {
     u"#软件/应用 '叮咚买菜'·": "https://trello.com/c/U43NITLI",
     u"#生活/住/房 '珠江丽景家园(36#1-307):天然气'·": "https://trello.com/c/DSh9yscO",
     u"#软件/应用 '北京燃气'·": "https://trello.com/c/kciePw3n",
+    u"#生活/购 '商场(领展购物广场·京通)'·": "https://trello.com/c/BIzgCdLV",
 }
