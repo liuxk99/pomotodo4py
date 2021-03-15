@@ -652,4 +652,6 @@ trello_dict = {
     u"#生活/住/房 '珠江丽景家园(36#1-307):天然气'·": "https://trello.com/c/DSh9yscO",
     u"#软件/应用 '北京燃气'·": "https://trello.com/c/kciePw3n",
     u"#生活/购 '商场(领展购物广场·京通)'·": "https://trello.com/c/BIzgCdLV",
+    u"#社交/同事 '李新'·": "https://trello.com/c/xkKY63nt",
+    u"#DMS(乐视) 'JIRA(GRACE-978)'·": "https://trello.com/c/rjWlOHqn",
 }
