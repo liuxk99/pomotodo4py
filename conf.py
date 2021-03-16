@@ -654,4 +654,6 @@ trello_dict = {
     u"#生活/购 '商场(领展购物广场·京通)'·": "https://trello.com/c/BIzgCdLV",
     u"#社交/同事 '李新'·": "https://trello.com/c/xkKY63nt",
     u"#DMS(乐视) 'JIRA(GRACE-978)'·": "https://trello.com/c/rjWlOHqn",
+    u"#生命/健康 '疫情(新冠病毒)'·": "https://trello.com/c/5JcIFEyF",
+    u"#SDE(Android)/native 'hello-executable'·": "https://trello.com/c/JGHFakl1",
 }
