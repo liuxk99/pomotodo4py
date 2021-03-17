@@ -656,4 +656,5 @@ trello_dict = {
     u"#DMS(乐视) 'JIRA(GRACE-978)'·": "https://trello.com/c/rjWlOHqn",
     u"#生命/健康 '疫情(新冠病毒)'·": "https://trello.com/c/5JcIFEyF",
     u"#SDE(Android)/native 'hello-executable'·": "https://trello.com/c/JGHFakl1",
+    u"#SDE(Android)/bionic 'libsjlog'·": "https://trello.com/c/MYhixjag",
 }
