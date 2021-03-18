@@ -657,4 +657,10 @@ trello_dict = {
     u"#生命/健康 '疫情(新冠病毒)'·": "https://trello.com/c/5JcIFEyF",
     u"#SDE(Android)/native 'hello-executable'·": "https://trello.com/c/JGHFakl1",
     u"#SDE(Android)/bionic 'libsjlog'·": "https://trello.com/c/MYhixjag",
+    u"#DMS(乐视) 'JIRA(GRACE-981)'·": "https://trello.com/c/LLGXUhzH",
+    u"#SDE(Android)/DTC 'cmd(reboot)'·": "https://trello.com/c/XObK9iFN",
+    u"#SDE(Kernel)/syscall '__NR_reboot'·": "https://trello.com/c/nJTEnZvj",
+    u"#SDE(Linux)/BootLoader 'uboot'·": "https://trello.com/c/CeLv7spW",
+    u"#软件/应用 'Snipaste'·": "https://trello.com/c/KsxXLQwu",
+    u"#Programmer/DTC 'Comparer(Beyond Compare)'·": "https://trello.com/c/KsxXLQwu",
 }
