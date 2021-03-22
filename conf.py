@@ -665,4 +665,5 @@ trello_dict = {
     u"#Programmer/DTC 'Comparer(Beyond Compare)'·": "https://trello.com/c/KsxXLQwu",
     u"#ADE(Android)/Test '压力升级脚本'·": "https://trello.com/c/DosskMQl",
     u"#社交/友 '宋晓佩'·": "https://trello.com/c/Kf8bExAd",
+    u"#SW/Service '招商银行'@刘显珂·": "https://trello.com/c/hkJtWCSV",
 }
