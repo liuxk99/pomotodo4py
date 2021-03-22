@@ -663,4 +663,5 @@ trello_dict = {
     u"#SDE(Linux)/BootLoader 'uboot'·": "https://trello.com/c/CeLv7spW",
     u"#软件/应用 'Snipaste'·": "https://trello.com/c/KsxXLQwu",
     u"#Programmer/DTC 'Comparer(Beyond Compare)'·": "https://trello.com/c/KsxXLQwu",
+    u"#ADE(Android)/Test '压力升级脚本'·": "https://trello.com/c/DosskMQl",
 }
