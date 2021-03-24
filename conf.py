@@ -666,4 +666,8 @@ trello_dict = {
     u"#ADE(Android)/Test '压力升级脚本'·": "https://trello.com/c/DosskMQl",
     u"#社交/友 '宋晓佩'·": "https://trello.com/c/Kf8bExAd",
     u"#SW/Service '招商银行'@刘显珂·": "https://trello.com/c/hkJtWCSV",
+    u"#SW/Web '浏览器(Chrome)'·": "https://trello.com/c/x7H5hwJa",
+    u"#ADE(Android) 'API(android.os.Environment)'·": "https://trello.com/c/TzkTnlCp",
+    u"#DMS(乐视) 'JIRA(GRACE-982)'·": "https://trello.com/c/IHCrVLoM",
+    u"#ADE(Android) 'API'·Samples": "https://trello.com/c/gl5TuovF",
 }
