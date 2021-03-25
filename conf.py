@@ -662,7 +662,7 @@ trello_dict = {
     u"#SDE(Kernel)/syscall '__NR_reboot'·": "https://trello.com/c/nJTEnZvj",
     u"#SDE(Linux)/BootLoader 'uboot'·": "https://trello.com/c/CeLv7spW",
     u"#软件/应用 'Snipaste'·": "https://trello.com/c/KsxXLQwu",
-    u"#Programmer/DTC 'Comparer(Beyond Compare)'·": "https://trello.com/c/KsxXLQwu",
+    u"#Programmer/DTC 'Comparer(Beyond Compare)'·": "https://trello.com/c/KeotggRY",
     u"#ADE(Android)/Test '压力升级脚本'·": "https://trello.com/c/DosskMQl",
     u"#社交/友 '宋晓佩'·": "https://trello.com/c/Kf8bExAd",
     u"#SW/Service '招商银行'@刘显珂·": "https://trello.com/c/hkJtWCSV",
@@ -674,4 +674,6 @@ trello_dict = {
     u"#软件/应用 'Mindjet(MindManager)'·": "https://trello.com/c/Hi84HrZ4",
     u"#Product(Android)/Feature 'package'·": "https://trello.com/c/FIphHkpU",
     u"#社交/同事 '彭松柏'·": "https://trello.com/c/PRLoBUMk",
+    u"#DMS(乐视) 'JIRA(GRACE-983)'·": "https://trello.com/c/vzJ7SnNO",
+    u"#产品(EUI)/feature 'boot-progress'·": "https://trello.com/c/icKzqLBE",
 }
