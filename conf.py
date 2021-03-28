@@ -670,4 +670,8 @@ trello_dict = {
     u"#ADE(Android) 'API(android.os.Environment)'·": "https://trello.com/c/TzkTnlCp",
     u"#DMS(乐视) 'JIRA(GRACE-982)'·": "https://trello.com/c/IHCrVLoM",
     u"#ADE(Android) 'API'·Samples": "https://trello.com/c/gl5TuovF",
+    u"#SW/Service '云盘(Dropbox)'·": "https://trello.com/c/vLwhWs5A",
+    u"#软件/应用 'Mindjet(MindManager)'·": "https://trello.com/c/Hi84HrZ4",
+    u"#Product(Android)/Feature 'package'·": "https://trello.com/c/FIphHkpU",
+    u"#社交/同事 '彭松柏'·": "https://trello.com/c/PRLoBUMk",
 }
