@@ -676,4 +676,8 @@ trello_dict = {
     u"#社交/同事 '彭松柏'·": "https://trello.com/c/PRLoBUMk",
     u"#DMS(乐视) 'JIRA(GRACE-983)'·": "https://trello.com/c/vzJ7SnNO",
     u"#产品(EUI)/feature 'boot-progress'·": "https://trello.com/c/icKzqLBE",
+    u"#人文/宗教(佛教) '经典(金刚经)'·": "https://trello.com/c/qdYtOUx7",
+    u"#生活/乐 '影院(纳美国际影城)'·": "https://trello.com/c/eTc6390P",
+    u"#软件/应用 '合生活'·": "https://trello.com/c/RQtMXQhO",
+    u"#社会/户籍(北京) '积分落户'·": "https://trello.com/c/pmPYAdun",
 }
