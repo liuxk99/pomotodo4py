@@ -680,4 +680,8 @@ trello_dict = {
     u"#生活/乐 '影院(纳美国际影城)'·": "https://trello.com/c/eTc6390P",
     u"#软件/应用 '合生活'·": "https://trello.com/c/RQtMXQhO",
     u"#社会/户籍(北京) '积分落户'·": "https://trello.com/c/pmPYAdun",
+    u"#软件/应用 '类别(工资计算器)'·": "https://trello.com/c/sW9HSO8s",
+    u"#软件/微信小程序 '工资个税计算器2021版'·": "https://trello.com/c/mQIxuFC6",
+    u"#Product(Android) '特性(Storage)'·": "https://trello.com/c/G5PFwKU3",
+    u"#社交 '同事(李荣)'·": "https://trello.com/c/SLvKiSGH",
 }
