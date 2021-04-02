@@ -684,4 +684,5 @@ trello_dict = {
     u"#软件/微信小程序 '工资个税计算器2021版'·": "https://trello.com/c/mQIxuFC6",
     u"#Product(Android) '特性(Storage)'·": "https://trello.com/c/G5PFwKU3",
     u"#社交 '同事(李荣)'·": "https://trello.com/c/SLvKiSGH",
+    u"#SW/OS(Unix)/cmd 'apt-get'·": "https://trello.com/c/nJQvlucU",
 }
