@@ -685,4 +685,5 @@ trello_dict = {
     u"#Product(Android) '特性(Storage)'·": "https://trello.com/c/G5PFwKU3",
     u"#社交 '同事(李荣)'·": "https://trello.com/c/SLvKiSGH",
     u"#SW/OS(Unix)/cmd 'apt-get'·": "https://trello.com/c/nJQvlucU",
+    u"#软件/应用 '美团'·": "https://trello.com/c/cT4o2Hxx",
 }
