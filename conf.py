@@ -686,4 +686,5 @@ trello_dict = {
     u"#社交 '同事(李荣)'·": "https://trello.com/c/SLvKiSGH",
     u"#SW/OS(Unix)/cmd 'apt-get'·": "https://trello.com/c/nJQvlucU",
     u"#软件/应用 '美团'·": "https://trello.com/c/cT4o2Hxx",
+    u"#生活/行/车(比亚迪·秦) '保养'·": "https://trello.com/c/S6yL0b81",
 }
