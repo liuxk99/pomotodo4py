@@ -692,4 +692,5 @@ trello_dict = {
     u"#生活/购物 '行宫市场'·": "https://trello.com/c/GtWBCGVq",
     u"#社交/同乡 '崔静'·": "https://trello.com/c/ySbHQCXl",
     u"#生活/购物 '燕郊弘阳广场'·": "https://trello.com/c/fO18qurG",
+    u"#ADE(Android)/DTC 'uiautomatorviewer'·": "https://trello.com/c/y37fGokG",
 }
