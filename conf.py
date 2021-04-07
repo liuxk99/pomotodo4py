@@ -689,4 +689,7 @@ trello_dict = {
     u"#生活/行/车(比亚迪·秦) '保养'·": "https://trello.com/c/S6yL0b81",
     u"#软件/应用/浏览器 '插件(Nimbus)'·": "https://trello.com/c/0dGxV5Km",
     u"#生活/食/餐饮 '千岛湖鱼味馆(北土城东路店)'·": "https://trello.com/c/u6820j8Q",
+    u"#生活/购物 '行宫市场'·": "https://trello.com/c/GtWBCGVq",
+    u"#社交/同乡 '崔静'·": "https://trello.com/c/ySbHQCXl",
+    u"#生活/购物 '燕郊弘阳广场'·": "https://trello.com/c/fO18qurG",
 }
