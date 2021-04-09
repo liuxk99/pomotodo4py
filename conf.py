@@ -693,4 +693,7 @@ trello_dict = {
     u"#社交/同乡 '崔静'·": "https://trello.com/c/ySbHQCXl",
     u"#生活/购物 '燕郊弘阳广场'·": "https://trello.com/c/fO18qurG",
     u"#ADE(Android)/DTC 'uiautomatorviewer'·": "https://trello.com/c/y37fGokG",
+    u"#ADE(Python)/DTC 'IDE(PyCharm)'·": "https://trello.com/c/hJO2fy3W",
+    u"#SW/OS(Unix) 'cmd(realpath)'·": "https://trello.com/c/FdefnZkQ",
+    u"#社交/同学 '付军'·": "https://trello.com/c/O3fIwLok",
 }
