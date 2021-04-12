@@ -696,4 +696,6 @@ trello_dict = {
     u"#ADE(Python)/DTC 'IDE(PyCharm)'·": "https://trello.com/c/hJO2fy3W",
     u"#SW/OS(Unix) 'cmd(realpath)'·": "https://trello.com/c/FdefnZkQ",
     u"#社交/同学 '付军'·": "https://trello.com/c/O3fIwLok",
+    u"#产品(EUI)/应用 'ui-auto'·": "https://trello.com/c/ckHdotba",
+    u"#产品(电脑)/外设 '鼠标(无线鼠标)'·": "https://trello.com/c/ARb9Qhiu",
 }
