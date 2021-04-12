@@ -698,4 +698,6 @@ trello_dict = {
     u"#社交/同学 '付军'·": "https://trello.com/c/O3fIwLok",
     u"#产品(EUI)/应用 'ui-auto'·": "https://trello.com/c/ckHdotba",
     u"#产品(电脑)/外设 '鼠标(无线鼠标)'·": "https://trello.com/c/ARb9Qhiu",
+    u"#财经/金融 '支付(京东白条)'·": "https://trello.com/c/WuzC72vK",
+    u"#生活/行 '墓地(河北省廊坊市安次区万寿国公墓)'·": "https://trello.com/c/DuvwkhQE",
 }
