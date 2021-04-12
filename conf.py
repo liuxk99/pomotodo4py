@@ -701,4 +701,6 @@ trello_dict = {
     u"#财经/金融 '支付(京东白条)'·": "https://trello.com/c/WuzC72vK",
     u"#生活/行 '墓地(河北省廊坊市安次区万寿国公墓)'·": "https://trello.com/c/DuvwkhQE",
     u"#生活/行 '人民商场接种点'·": "https://trello.com/c/RSvxwHF2",
+    u"#Programmer/PLang 'Python(v2.7)'·": "https://trello.com/c/WoZ1GFhu",
+    u"#Programmer/PLang 'Python(v3)'·": "https://trello.com/c/dqvbvnuN",
 }
