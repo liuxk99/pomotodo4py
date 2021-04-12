@@ -700,4 +700,5 @@ trello_dict = {
     u"#产品(电脑)/外设 '鼠标(无线鼠标)'·": "https://trello.com/c/ARb9Qhiu",
     u"#财经/金融 '支付(京东白条)'·": "https://trello.com/c/WuzC72vK",
     u"#生活/行 '墓地(河北省廊坊市安次区万寿国公墓)'·": "https://trello.com/c/DuvwkhQE",
+    u"#生活/行 '人民商场接种点'·": "https://trello.com/c/RSvxwHF2",
 }
