@@ -24,16 +24,17 @@ from pomo import Pomo
 
 
 def help(cmd):
-    print "%s --token=$token " \
-          "(--started_later_than=$(iso8601-date) [--started_earlier_than=$(iso8601-date])|--date $(iso8601-date)"\
+    var = "%s --token=$token " \
+          "(--started_later_than=$(iso8601-date) [--started_earlier_than=$(iso8601-date])|--date $(iso8601-date)" \
           % cmd
+    print(var)
     sys.exit(1)
 
     pass
 
 
 def do_main(token, started_later_than_dt, started_earlier_than = None):
-    print "do_main('%s', '%s~%s')" % (token, str(started_later_than_dt), str(started_earlier_than))
+    print("do_main('%s', '%s~%s')" % (token, str(started_later_than_dt), str(started_earlier_than)))
 
     json_items = pomotodo.get_pomos(token, started_later_than_dt, started_earlier_than, True)
 
@@ -54,9 +55,9 @@ def do_main(token, started_later_than_dt, started_earlier_than = None):
         activities.append(Activity.from_json(e))
 
     activities.sort(key=Activity.started_time_key)
-    print "total %d activities" % len(activities)
+    print("total %d activities" % len(activities))
     for e in activities:
-        print e
+        print(e)
 
     export_file(activities, "trello.md", "YNote.md")
     pass
@@ -66,7 +67,7 @@ if __name__ == '__main__':
     # sys.setdefaultencoding('utf8')
     exec_cmd = sys.argv[0]
 
-    print sys.argv[1:]
+    print(sys.argv[1:])
     if len(sys.argv) < 2:
         help(exec_cmd)
 

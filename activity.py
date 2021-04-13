@@ -19,7 +19,7 @@ class Activity:
         begin_time = begin_date.strftime("%H:%M")
         end_time = end_date.strftime("%H:%M")
 
-        return (u'%s [%s - %s]\n%s' % (cur_date, begin_time, end_time, self._description)).encode("utf-8")
+        return (u'%s [%s - %s]\n%s' % (cur_date, begin_time, end_time, self._description))
 
     def to_markdown(self):
         begin_date = datetime_utils.from_iso8601(self._begin)
@@ -59,7 +59,7 @@ class Activity:
                 break
 
         if not matched:
-            print '    u"%s": "",' % (self._description)
+            print('    u"%s": "",' % (self._description))
 
         return (u'%s\n%s\n' % (time_str, activity_str)).encode("utf-8")
 
@@ -75,8 +75,8 @@ class Activity:
 
 
 def export_file(activities, md_file, note_file):
-    print "md_file: %s" % md_file
-    print "note_file: %s" % note_file
+    print("md_file: %s" % md_file)
+    print("note_file: %s" % note_file)
 
     out_md = codecs.open(md_file, 'w', 'utf-8-sig')
     out_note = codecs.open(note_file, 'w', 'utf-8-sig')

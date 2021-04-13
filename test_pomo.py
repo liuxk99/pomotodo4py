@@ -20,6 +20,6 @@ json = u'{' \
 
 class TestPomo(TestCase):
     def test_from_json(self):
-        print json
+        print(json)
         Pomo.from_json(json)
         # self.fail()
