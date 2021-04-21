@@ -714,4 +714,7 @@ trello_dict = {
     u"#SW/OS 'Ubuntu(14.04 LTS)'·": "https://trello.com/c/vqExpww1",
     u"#软件/工具 '启动盘(Rufus)'·": "https://trello.com/c/g9ERjXAa",
     u"#IT/计算资源 'PC(XancL03)'·": "https://trello.com/c/l63Jn1Y7",
+    u"#Programmer/PLang 'Python(pip)'·": "https://trello.com/c/Gz2yyzbS",
+    u"#SW/OS(Windows)/App/Web '浏览器(Firefox)'·": "https://trello.com/c/kP8qK8TD",
+    u"#SW/Sys 'VM(virtualbox)'·": "https://trello.com/c/gwHnKC72",
 }
