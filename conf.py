@@ -703,4 +703,9 @@ trello_dict = {
     u"#生活/行 '人民商场接种点'·": "https://trello.com/c/RSvxwHF2",
     u"#Programmer/PLang 'Python(v2.7)'·": "https://trello.com/c/WoZ1GFhu",
     u"#Programmer/PLang 'Python(v3)'·": "https://trello.com/c/dqvbvnuN",
+    u"#SW/OS 'Ubuntu(16.04 LTS)'·": "https://trello.com/c/QSD82C54",
+    u"#SW/OS(Unix) 'cmd(mount)'·": "https://trello.com/c/lk0ZncK4",
+    u"#SW/App 'SSH'·": "https://trello.com/c/Y5c3Hve0",
+    u"#SW/OS(Ubuntu) 'IME(搜狗拼音)'·": "https://trello.com/c/slXjbjMZ",
+    u"#SW/App 'Samba'·": "https://trello.com/c/q1XJghhz",
 }
