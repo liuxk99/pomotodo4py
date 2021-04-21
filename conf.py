@@ -708,4 +708,10 @@ trello_dict = {
     u"#SW/App 'SSH'·": "https://trello.com/c/Y5c3Hve0",
     u"#SW/OS(Ubuntu) 'IME(搜狗拼音)'·": "https://trello.com/c/slXjbjMZ",
     u"#SW/App 'Samba'·": "https://trello.com/c/q1XJghhz",
+    u"#软件/工具 '包管理(dpkg)'·": "https://trello.com/c/ynZY0kKu",
+    u"#ADE(Java)/JDK 'OpenJDK(7)'·": "https://trello.com/c/9GBSKRW9",
+    u"#ADE(Java)/JDK 'OpenJDK(8)'·": "https://trello.com/c/19VAG2Tf",
+    u"#SW/OS 'Ubuntu(14.04 LTS)'·": "https://trello.com/c/vqExpww1",
+    u"#软件/工具 '启动盘(Rufus)'·": "https://trello.com/c/g9ERjXAa",
+    u"#IT/计算资源 'PC(XancL03)'·": "https://trello.com/c/l63Jn1Y7",
 }
