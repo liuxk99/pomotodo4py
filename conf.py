@@ -718,4 +718,5 @@ trello_dict = {
     u"#SW/OS(Windows)/App/Web '浏览器(Firefox)'·": "https://trello.com/c/kP8qK8TD",
     u"#SW/Sys 'VM(virtualbox)'·": "https://trello.com/c/gwHnKC72",
     u"#软件/应用 'Editor(Notepad++)'·": "https://trello.com/c/xs8BuMBS",
+    u"#Programmer/DTC 'TextEditor(Sublime)'·": "https://trello.com/c/AhEJmpm6",
 }
