@@ -730,4 +730,9 @@ trello_dict = {
     u"#软件/应用 '闲鱼'·": "https://trello.com/c/sS0uStey",
     u"#SW/App/Email 'Outlook'·": "https://trello.com/c/BUoSgNvc",
     u"#SW/Sys/Security '火绒'·": "https://trello.com/c/Cw5EQD9q",
+    u"#SW/App '压缩(7-zip)'·": "https://trello.com/c/0kQcghUB",
+    u"#DMS(乐视) 'JIRA(DEMETER-76862)'·": "https://trello.com/c/MvZTBCCF",
+    u"#ADE(Android)/DTC 'fastboot'·": "https://trello.com/c/delPh7p4",
+    u"#产品(EUI)/应用 '系统更新'·": "https://trello.com/c/NX93AB3W",
+    u"#办公 '打印'·": "https://trello.com/c/udKwgffj",
 }
