@@ -722,4 +722,12 @@ trello_dict = {
     u"#SW/OS(Ubuntu)/App/Web '浏览器(Firefox)'·": "https://trello.com/c/q0NNcK6F",
     u"#SW/App/Web '浏览器(Chrome)'·": "https://trello.com/c/x7H5hwJa",
     u"#IT/计算资源 'Server(File)'·": "https://trello.com/c/C44eXV5O",
+    u"#SW/App/Web '浏览器(TheWorld)'·": "https://trello.com/c/t2UQ8tJE",
+    u"#SW/OS(Windows) 'IME(搜狗拼音)'·": "https://trello.com/c/mCnZLZXh",
+    u"#SW/App/Doc 'Acrobat Reader'·": "https://trello.com/c/2kck1yvs",
+    u"#SW/App/Doc 'WPS Office'·": "https://trello.com/c/OklfFSYe",
+    u"#ADE(Android)/DTC 'Debugger(adb)'·": "https://trello.com/c/FGtilKFJ",
+    u"#软件/应用 '闲鱼'·": "https://trello.com/c/sS0uStey",
+    u"#SW/App/Email 'Outlook'·": "https://trello.com/c/BUoSgNvc",
+    u"#SW/Sys/Security '火绒'·": "https://trello.com/c/Cw5EQD9q",
 }
