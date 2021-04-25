@@ -738,4 +738,7 @@ trello_dict = {
     u"#产品(EUI)/特性(非功能) 'boot-progress'·": "https://trello.com/c/icKzqLBE",
     u"#SW/Sys 'DiskManager(GParted)'·": "https://trello.com/c/IV6XKLtb",
     u"#SDE(Linux)/Subsystem 'File System'·": "https://trello.com/c/1qxjpaaE",
+    u"#公司(乐视)/部门(EUI系统) '聚餐'": "https://trello.com/c/WM91oMD3",
+    u"#社交/戚 '张兴平'·": "https://trello.com/c/vuoi5k75",
+    u"#项目(TV)/平台 'Mstar938(G65S)'·": "https://trello.com/c/Tj9Zz1UE",
 }
