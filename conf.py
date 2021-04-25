@@ -737,4 +737,5 @@ trello_dict = {
     u"#办公 '打印'·": "https://trello.com/c/udKwgffj",
     u"#产品(EUI)/特性(非功能) 'boot-progress'·": "https://trello.com/c/icKzqLBE",
     u"#SW/Sys 'DiskManager(GParted)'·": "https://trello.com/c/IV6XKLtb",
+    u"#SDE(Linux)/Subsystem 'File System'·": "https://trello.com/c/1qxjpaaE",
 }
