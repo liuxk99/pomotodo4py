@@ -735,4 +735,6 @@ trello_dict = {
     u"#ADE(Android)/DTC 'fastboot'·": "https://trello.com/c/delPh7p4",
     u"#产品(EUI)/应用 '系统更新'·": "https://trello.com/c/NX93AB3W",
     u"#办公 '打印'·": "https://trello.com/c/udKwgffj",
+    u"#产品(EUI)/特性(非功能) 'boot-progress'·": "https://trello.com/c/icKzqLBE",
+    u"#SW/Sys 'DiskManager(GParted)'·": "https://trello.com/c/IV6XKLtb",
 }
