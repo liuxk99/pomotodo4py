@@ -741,4 +741,6 @@ trello_dict = {
     u"#公司(乐视)/部门(EUI系统) '聚餐'": "https://trello.com/c/WM91oMD3",
     u"#社交/戚 '张兴平'·": "https://trello.com/c/vuoi5k75",
     u"#项目(TV)/平台 'Mstar938(G65S)'·": "https://trello.com/c/Tj9Zz1UE",
+    u"#SW/Service '学信网'·": "https://trello.com/c/1wPEaFTg",
+    u"#SW/Service '学位网'·": "https://trello.com/c/fOOudI3F",
 }
