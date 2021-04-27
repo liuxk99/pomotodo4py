@@ -19,7 +19,7 @@ from datetime import timedelta
 
 import datetime_utils
 import pomotodo
-from activity import Activity, export_file
+from activity import Activity, export_file, export_comments
 from pomo import Pomo
 
 
@@ -60,6 +60,7 @@ def do_main(token, started_later_than_dt, started_earlier_than = None):
         print(e)
 
     export_file(activities, "trello.md", "YNote.md")
+    export_comments(activities, "comments.log")
     pass
 
 

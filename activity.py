@@ -1,5 +1,6 @@
 # coding=utf-8
 import codecs
+import re
 
 import datetime_utils
 from conf import trello_dict
@@ -19,7 +20,30 @@ class Activity:
         begin_time = begin_date.strftime("%H:%M")
         end_time = end_date.strftime("%H:%M")
 
-        return (u'%s [%s - %s]\n%s' % (cur_date, begin_time, end_time, self._description))
+        return u'%s [%s - %s]\n%s' % (cur_date, begin_time, end_time, self._description)
+
+    def trans_url(self, url):
+        if url:
+            pat = u"(.+)'.+'(.+)"
+            obj = re.match(pat, self._description)
+            if obj:
+                return "%s %s" % (url, obj.group(2))
+        return "%s" % self._description
+
+    def to_trello(self):
+        begin_date = datetime_utils.from_iso8601(self._begin)
+        end_date = datetime_utils.from_iso8601(self._end)
+        cur_date = begin_date.strftime("%Y/%m/%d")
+        begin_time = begin_date.strftime("%H:%M")
+        end_time = end_date.strftime("%H:%M")
+
+        url = None
+        for key in trello_dict.keys():
+            if self._description.find(key) >= 0:
+                url = trello_dict[key]
+                break
+
+        return (u'%s [%s - %s]\n%s\n' % (cur_date, begin_time, end_time, self.trans_url(url))).encode("utf-8")
 
     def to_markdown(self):
         begin_date = datetime_utils.from_iso8601(self._begin)
@@ -87,6 +111,20 @@ def export_file(activities, md_file, note_file):
         out_note.write(activity.to_YNoteMarkdown().decode('utf-8'))
 
     out_note.close()
+    out_md.close()
+
+    pass
+
+
+def export_comments(activities, comments_file):
+    print("md_file: %s" % comments_file)
+
+    out_md = codecs.open(comments_file, 'w', 'utf-8-sig')
+
+    for activity in activities:
+        # print activity.to_markdown()
+        out_md.write(activity.to_trello().decode('utf-8'))
+
     out_md.close()
 
     pass
