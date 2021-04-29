@@ -743,4 +743,8 @@ trello_dict = {
     u"#项目(TV)/平台 'Mstar938(G65S)'·": "https://trello.com/c/Tj9Zz1UE",
     u"#SW/Service '学信网'·": "https://trello.com/c/1wPEaFTg",
     u"#SW/Service '学位网'·": "https://trello.com/c/fOOudI3F",
+    u"#SW/OS(Ubuntu) 'PackageManager'·": "https://trello.com/c/TtDHWnsw",
+    u"#产品(Android) '方案商(Amlogic)'·": "https://trello.com/c/KWK0fGMf",
+    u"#产品(EUI) '特性(性能)'·": "https://trello.com/c/A1D91KHp",
+    u"#SDE(Android)/init 'service(logcat_service)'·": "https://trello.com/c/trtnwrjx",
 }
