@@ -753,4 +753,6 @@ trello_dict = {
     u"#软件/应用 '多点'·": "https://trello.com/c/aNhCzRuJ",
     u"#生活/游 '景点(世贸天阶)'·": "https://trello.com/c/qp5BHny8",
     u"#软件/应用 '旺信'·": "https://trello.com/c/9AJYRRO4",
+    u"#生活/食 '麦当劳'·": "https://trello.com/c/NZydS41T",
+    u"#生活/游 '景点(百望山森林公园)'·": "https://trello.com/c/dhBndhGu",
 }
