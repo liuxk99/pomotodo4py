@@ -748,4 +748,9 @@ trello_dict = {
     u"#产品(EUI) '特性(性能)'·": "https://trello.com/c/A1D91KHp",
     u"#SDE(Android)/init 'service(logcat_service)'·": "https://trello.com/c/trtnwrjx",
     u"#IT/计算资源 'PC(VM01)'·": "https://trello.com/c/pnbcNBiq",
+    u"#软件/应用 '北京实时公交'·": "https://trello.com/c/GlatsctU",
+    u"#软件/应用 '老王VPN'·": "https://trello.com/c/JyuOFTmX",
+    u"#软件/应用 '多点'·": "https://trello.com/c/aNhCzRuJ",
+    u"#生活/游 '景点(世贸天阶)'·": "https://trello.com/c/qp5BHny8",
+    u"#软件/应用 '旺信'·": "https://trello.com/c/9AJYRRO4",
 }
