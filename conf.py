@@ -747,4 +747,5 @@ trello_dict = {
     u"#产品(Android) '方案商(Amlogic)'·": "https://trello.com/c/KWK0fGMf",
     u"#产品(EUI) '特性(性能)'·": "https://trello.com/c/A1D91KHp",
     u"#SDE(Android)/init 'service(logcat_service)'·": "https://trello.com/c/trtnwrjx",
+    u"#IT/计算资源 'PC(VM01)'·": "https://trello.com/c/pnbcNBiq",
 }
