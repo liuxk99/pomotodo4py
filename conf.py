@@ -756,4 +756,5 @@ trello_dict = {
     u"#生活/食 '麦当劳'·": "https://trello.com/c/NZydS41T",
     u"#生活/游 '景点(百望山森林公园)'·": "https://trello.com/c/dhBndhGu",
     u"#SDE(Android)/Lib 'liblog'·": "https://trello.com/c/WFAqoXUp",
+    u"#生活/住/卫生间 '盥洗盆'·": "https://trello.com/c/1Pwsj95L",
 }
