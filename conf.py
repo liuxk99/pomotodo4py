@@ -757,4 +757,6 @@ trello_dict = {
     u"#生活/游 '景点(百望山森林公园)'·": "https://trello.com/c/dhBndhGu",
     u"#SDE(Android)/Lib 'liblog'·": "https://trello.com/c/WFAqoXUp",
     u"#生活/住/卫生间 '盥洗盆'·": "https://trello.com/c/1Pwsj95L",
+    u"#公司(乐视)/管理/团队 '招聘'·": "https://trello.com/c/Es8wp4ZO",
+    u"#SW/Web/浏览器(Chrome) 'Extension(SwitchyOmega)'·": "https://trello.com/c/VGp4V035",
 }
