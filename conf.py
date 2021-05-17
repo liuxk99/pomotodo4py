@@ -760,4 +760,8 @@ trello_dict = {
     u"#公司(乐视)/管理/团队 '招聘'·": "https://trello.com/c/Es8wp4ZO",
     u"#SW/Web/浏览器(Chrome) 'Extension(SwitchyOmega)'·": "https://trello.com/c/VGp4V035",
     u"#软件/应用 '学信网'·": "https://trello.com/c/rTIJLIB1",
+    u"#SW/Service '北京通'·": "https://trello.com/c/lEESpjBw",
+    u"#软件<OS: Windows>/应用 '钉钉'·": "https://trello.com/c/9WzAgjjR",
+    u"#软件/服务 '北京人才工作局网站'·": "https://trello.com/c/TEeQdfnP",
+    u"#公司(乐视)/IT '上网认证系统'·": "https://trello.com/c/nR9mDpxl",
 }
