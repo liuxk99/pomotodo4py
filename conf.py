@@ -759,4 +759,5 @@ trello_dict = {
     u"#生活/住/卫生间 '盥洗盆'·": "https://trello.com/c/1Pwsj95L",
     u"#公司(乐视)/管理/团队 '招聘'·": "https://trello.com/c/Es8wp4ZO",
     u"#SW/Web/浏览器(Chrome) 'Extension(SwitchyOmega)'·": "https://trello.com/c/VGp4V035",
+    u"#软件/应用 '学信网'·": "https://trello.com/c/rTIJLIB1",
 }
