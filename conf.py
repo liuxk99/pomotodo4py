@@ -764,4 +764,5 @@ trello_dict = {
     u"#软件<OS: Windows>/应用 '钉钉'·": "https://trello.com/c/9WzAgjjR",
     u"#软件/服务 '北京人才工作局网站'·": "https://trello.com/c/TEeQdfnP",
     u"#公司(乐视)/IT '上网认证系统'·": "https://trello.com/c/nR9mDpxl",
+    u"#生活/用 '玩具(扭扭车)'·": "https://trello.com/c/pvsHt2Cb",
 }
