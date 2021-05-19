@@ -765,4 +765,6 @@ trello_dict = {
     u"#软件/服务 '北京人才工作局网站'·": "https://trello.com/c/TEeQdfnP",
     u"#公司(乐视)/IT '上网认证系统'·": "https://trello.com/c/nR9mDpxl",
     u"#生活/用 '玩具(扭扭车)'·": "https://trello.com/c/pvsHt2Cb",
+    u"#软件/应用 '京东金融'·": "https://trello.com/c/pCuOUIjT",
+    u"#软件/应用 '微博'·": "https://trello.com/c/H0BAIn2Q",
 }
