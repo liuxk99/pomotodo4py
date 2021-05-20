@@ -767,4 +767,7 @@ trello_dict = {
     u"#生活/用 '玩具(扭扭车)'·": "https://trello.com/c/pvsHt2Cb",
     u"#软件/应用 '京东金融'·": "https://trello.com/c/pCuOUIjT",
     u"#软件/应用 '微博'·": "https://trello.com/c/H0BAIn2Q",
+    u"#金融/服务 '银行(招商)'·": "https://trello.com/c/ivupfCpM",
+    u"#Programmer/RE 'ruby:RubyGems'·": "https://trello.com/c/rUqu7z07",
+    u"#SW/Service@刘先付 '邮政储蓄银行'·": "https://trello.com/c/Iphv3CGn",
 }
