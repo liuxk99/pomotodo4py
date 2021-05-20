@@ -770,4 +770,7 @@ trello_dict = {
     u"#金融/服务 '银行(招商)'·": "https://trello.com/c/ivupfCpM",
     u"#Programmer/RE 'ruby:RubyGems'·": "https://trello.com/c/rUqu7z07",
     u"#SW/Service@刘先付 '邮政储蓄银行'·": "https://trello.com/c/Iphv3CGn",
+    u"#ADE(Java)/Lib 'idauth4j'·": "https://trello.com/c/uxthV0ZY",
+    u"#SW<OS:Unix>/App 'cmd(curl)'·": "https://trello.com/c/NmiQ6noZ",
+    u"#SW/Sys/Network 'wireshark'·": "https://trello.com/c/roxJDLbP",
 }
