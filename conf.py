@@ -773,4 +773,6 @@ trello_dict = {
     u"#ADE(Java)/Lib 'idauth4j'·": "https://trello.com/c/uxthV0ZY",
     u"#SW<OS:Unix>/App 'cmd(curl)'·": "https://trello.com/c/NmiQ6noZ",
     u"#SW/Sys/Network 'wireshark'·": "https://trello.com/c/roxJDLbP",
+    u"#生活/行 '机场(天津滨海国际机场)'·": "https://trello.com/c/ENinkC86",
+    u"#SW/Sys/Network 'tcpdump'·": "https://trello.com/c/ClLCazig",
 }
