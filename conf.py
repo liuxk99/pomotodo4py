@@ -775,4 +775,5 @@ trello_dict = {
     u"#SW/Sys/Network 'wireshark'·": "https://trello.com/c/roxJDLbP",
     u"#生活/行 '机场(天津滨海国际机场)'·": "https://trello.com/c/ENinkC86",
     u"#SW/Sys/Network 'tcpdump'·": "https://trello.com/c/ClLCazig",
+    u"#生活/游 '公园(刘庄公园)'·": "https://trello.com/c/GHcsN8LZ",
 }
