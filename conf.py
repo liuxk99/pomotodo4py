@@ -776,4 +776,5 @@ trello_dict = {
     u"#生活/行 '机场(天津滨海国际机场)'·": "https://trello.com/c/ENinkC86",
     u"#SW/Sys/Network 'tcpdump'·": "https://trello.com/c/ClLCazig",
     u"#生活/游 '公园(刘庄公园)'·": "https://trello.com/c/GHcsN8LZ",
+    u"#生活/行/车(福特·蒙迪欧) '加油'": "https://trello.com/c/R712kbOY",
 }
