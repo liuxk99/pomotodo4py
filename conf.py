@@ -777,4 +777,6 @@ trello_dict = {
     u"#SW/Sys/Network 'tcpdump'·": "https://trello.com/c/ClLCazig",
     u"#生活/游 '公园(刘庄公园)'·": "https://trello.com/c/GHcsN8LZ",
     u"#生活/行/车(福特·蒙迪欧) '加油'": "https://trello.com/c/R712kbOY",
+    u"#生活/行 '中国汽车技术研究中心'·": "https://trello.com/c/kgoRt9Ul",
+    u"#生命/健康@刘枢睽 '疫苗'·": "https://trello.com/c/6zY5jVGz",
 }
