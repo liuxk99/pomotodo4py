@@ -780,4 +780,5 @@ trello_dict = {
     u"#生活/行 '中国汽车技术研究中心'·": "https://trello.com/c/kgoRt9Ul",
     u"#生命/健康@刘枢睽 '疫苗'·": "https://trello.com/c/6zY5jVGz",
     u"#知识/管理 'KIB'·": "https://trello.com/c/V4Sxl5zc",
+    u"#产品(EUI)/测试 'MTBF'·": "https://trello.com/c/hk7PAEPQ",
 }
