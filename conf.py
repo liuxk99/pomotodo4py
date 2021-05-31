@@ -785,4 +785,5 @@ trello_dict = {
     u"#Programmer/Lib 'Data-Format(CSV)'·": "https://trello.com/c/gsMjAKqA",
     u"#社交 '友(孙琳)'·": "https://trello.com/c/aoUwu4gT",
     u"#SW/App 'MediaPlayer(VLC)'·": "https://trello.com/c/rVP8FJKJ",
+    u"#ADE(Python)/Lib 'DataAnalysis(pandas)'·": "https://trello.com/c/SBTEOGdI",
 }
