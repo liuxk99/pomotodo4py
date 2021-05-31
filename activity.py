@@ -24,7 +24,7 @@ class Activity:
 
     def trans_url(self, url):
         if url:
-            pat = u"(.+)'.+'(.+)"
+            pat = u"(.+)'.+'(.*)"
             obj = re.match(pat, self._description)
             if obj:
                 return "%s %s" % (url, obj.group(2))
