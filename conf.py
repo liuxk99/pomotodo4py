@@ -786,4 +786,6 @@ trello_dict = {
     u"#社交 '友(孙琳)'·": "https://trello.com/c/aoUwu4gT",
     u"#SW/App 'MediaPlayer(VLC)'·": "https://trello.com/c/rVP8FJKJ",
     u"#ADE(Python)/Lib 'DataAnalysis(pandas)'·": "https://trello.com/c/SBTEOGdI",
+    u"#SW/OS(Unix)/cmd 'tar'·": "https://trello.com/c/AoIYeE4J",
+    u"#ADE(Python)/Lib 'Web(django)'·": "https://trello.com/c/ACBc2VZs",
 }
