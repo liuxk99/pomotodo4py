@@ -788,4 +788,6 @@ trello_dict = {
     u"#ADE(Python)/Lib 'DataAnalysis(pandas)'·": "https://trello.com/c/SBTEOGdI",
     u"#SW/OS(Unix)/cmd 'tar'·": "https://trello.com/c/AoIYeE4J",
     u"#ADE(Python)/Lib 'Web(django)'·": "https://trello.com/c/ACBc2VZs",
+    u"#SW<OS:Unix>/cmd 'tar'·": "https://trello.com/c/AoIYeE4J",
+    u"#软件/应用 'Shadowsocks'·": "https://trello.com/c/NKKZG3C2",
 }
