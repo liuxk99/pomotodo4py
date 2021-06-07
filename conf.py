@@ -790,4 +790,6 @@ trello_dict = {
     u"#ADE(Python)/Lib 'Web(django)'·": "https://trello.com/c/ACBc2VZs",
     u"#SW<OS:Unix>/cmd 'tar'·": "https://trello.com/c/AoIYeE4J",
     u"#软件/应用 'Shadowsocks'·": "https://trello.com/c/NKKZG3C2",
+    u"#SW/Service 'iPower'·": "https://trello.com/c/isLLbKXx",
+    u"#SW/Service 'Google'·": "https://trello.com/c/mNb3Llka",
 }
