@@ -21,16 +21,16 @@ json = u'{' \
 
 class TestPomo(TestCase):
     def test_from_json(self):
-        print(json)
+        print json
         Pomo.from_json(json)
         # self.fail()
 
     def testcaseActions01(self):
         pomo1 = "#SW/App 'xxx' |2021/04/26"
-        print(pomo1)
+        print pomo1
 
         pattern = "'.+'"
-        print(pattern)
+        print pattern
 
         self.assertIsNotNone((re.search(pattern, pomo1)))
         return
@@ -40,25 +40,25 @@ class TestPomo(TestCase):
         pomo2 = u"#社会/户籍(北京) '积分落户'·申报 |2021年"
 
         pattern = u"'.+'"
-        print(pattern)
+        print pattern
 
         obj = re.search(pattern, pomo1)
         self.assertIsNotNone(obj)
-        print(obj)
+        print obj
 
         obj = re.search(pattern, pomo2)
         self.assertIsNotNone(obj)
-        print(obj)
+        print obj
 
-        print(pomo1)
+        print pomo1
         pat = u"(.+)'.+'(.+)"
         obj = re.match(pat, pomo1)
         if obj:
-            print(obj.group(2))
+            print obj.group(2)
 
-        print(pomo2)
+        print pomo2
         obj = re.match(pat, pomo2)
         if obj:
-            print(obj.group(2))
+            print obj.group(2)
 
         return

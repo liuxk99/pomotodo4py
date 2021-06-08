@@ -24,6 +24,6 @@ def get_pomos(token, started_later_than_dt, started_earlier_than=None, manual=Fa
     if manual:
         parameters['manual'] = "true"
 
-    print(parameters)
+    print parameters
     result = requests.get(API_URL, headers=headers, params=parameters)
     return result.json()

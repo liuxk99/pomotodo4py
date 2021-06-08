@@ -83,7 +83,7 @@ class Activity:
                 break
 
         if not matched:
-            print('    u"%s": "",' % (self._description))
+            print '    u"%s": "",' % (self._description)
 
         return (u'%s\n%s\n' % (time_str, activity_str)).encode("utf-8")
 
@@ -99,8 +99,8 @@ class Activity:
 
 
 def export_file(activities, md_file, note_file):
-    print("md_file: %s" % md_file)
-    print("note_file: %s" % note_file)
+    print "md_file: %s" % md_file
+    print "note_file: %s" % note_file
 
     out_md = codecs.open(md_file, 'w', 'utf-8-sig')
     out_note = codecs.open(note_file, 'w', 'utf-8-sig')
@@ -117,7 +117,7 @@ def export_file(activities, md_file, note_file):
 
 
 def export_comments(activities, comments_file):
-    print("md_file: %s" % comments_file)
+    print "md_file: %s" % comments_file
 
     out_md = codecs.open(comments_file, 'w', 'utf-8-sig')
 

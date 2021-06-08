@@ -27,7 +27,7 @@ class MyTestCase(unittest.TestCase):
                     # strip() removes white space from the ends of strings
                     keys[name.strip()] = value.strip()
 
-        print(keys)
+        print keys
         self.token = keys['token']
         pass
 
