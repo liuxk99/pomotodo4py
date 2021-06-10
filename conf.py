@@ -794,4 +794,6 @@ trello_dict = {
     u"#SW/Service 'Google'·": "https://trello.com/c/mNb3Llka",
     u"#SW<os:unix>/app 'openssl'·": "https://trello.com/c/x2M47A7r",
     u"#SW/OS 'Harmony OS'·": "https://trello.com/c/ERrxHp0h",
+    u"#ADE(Python) 'RE'·": "https://trello.com/c/sYpm73oh",
+    u"#财经/金融@刘显珂 '银行(招商)'·": "https://trello.com/c/twnzfc9w",
 }
