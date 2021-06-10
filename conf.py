@@ -793,4 +793,5 @@ trello_dict = {
     u"#SW/Service 'iPower'·": "https://trello.com/c/isLLbKXx",
     u"#SW/Service 'Google'·": "https://trello.com/c/mNb3Llka",
     u"#SW<os:unix>/app 'openssl'·": "https://trello.com/c/x2M47A7r",
+    u"#SW/OS 'Harmony OS'·": "https://trello.com/c/ERrxHp0h",
 }
