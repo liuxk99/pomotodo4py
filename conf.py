@@ -797,4 +797,5 @@ trello_dict = {
     u"#ADE(Python) 'RE'·": "https://trello.com/c/sYpm73oh",
     u"#财经/金融@刘显珂 '银行(招商)'·": "https://trello.com/c/twnzfc9w",
     u"#SW<os:linux>/feature 'user'·": "https://trello.com/c/CwpIpbhF",
+    u"#Programmer/PLang 'Bash'·": "https://trello.com/c/eHUGUIrH",
 }
