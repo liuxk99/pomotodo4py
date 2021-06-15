@@ -798,4 +798,6 @@ trello_dict = {
     u"#财经/金融@刘显珂 '银行(招商)'·": "https://trello.com/c/twnzfc9w",
     u"#SW<os:linux>/feature 'user'·": "https://trello.com/c/CwpIpbhF",
     u"#Programmer/PLang 'Bash'·": "https://trello.com/c/eHUGUIrH",
+    u"#生活/住 '宾馆(御墅龙湾度假公寓)'·": "https://trello.com/c/49fi45rO",
+    u"#生活/游 '景点(北戴河南海水浴场)'·": "https://trello.com/c/mPAgZq59",
 }
