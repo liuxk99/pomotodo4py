@@ -800,4 +800,8 @@ trello_dict = {
     u"#Programmer/PLang 'Bash'·": "https://trello.com/c/eHUGUIrH",
     u"#生活/住 '宾馆(御墅龙湾度假公寓)'·": "https://trello.com/c/49fi45rO",
     u"#生活/游 '景点(北戴河南海水浴场)'·": "https://trello.com/c/mPAgZq59",
+    u"#财经/理财@刘先付 '养老金'·": "https://trello.com/c/D3X3UjJV",
+    u"#生活/用/通信/服务商@刘显珂 '中国联通'·": "https://trello.com/c/yXaVOMA0",
+    u"#人文/地理 '中国·天津市·宝坻区'·": "https://trello.com/c/TdO9UUny",
+    u"#人文/地理 '中国·河北省·唐山市·玉田县'·": "https://trello.com/c/xfzhbHmX",
 }
