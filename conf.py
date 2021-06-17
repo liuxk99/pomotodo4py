@@ -806,4 +806,5 @@ trello_dict = {
     u"#人文/地理 '中国·河北省·唐山市·玉田县'·": "https://trello.com/c/xfzhbHmX",
     u"#人文/地理 '中国·河北省·唐山市'·": "https://trello.com/c/EnWjuvta",
     u"#人文/地理 '中国·天津市'·": "https://trello.com/c/8Da05ucT",
+    u"#Programmer/DTC 'MSYS2'·": "https://trello.com/c/87QepPYG",
 }
