@@ -807,4 +807,8 @@ trello_dict = {
     u"#人文/地理 '中国·河北省·唐山市'·": "https://trello.com/c/EnWjuvta",
     u"#人文/地理 '中国·天津市'·": "https://trello.com/c/8Da05ucT",
     u"#Programmer/DTC 'MSYS2'·": "https://trello.com/c/87QepPYG",
+    u"#Programmer/DTC 'GNU-Env(MSYS2)'·": "https://trello.com/c/87QepPYG",
+    u"#Programmer/DTC 'GNU-Environment'·": "https://trello.com/c/7EXGKTeY",
+    u"#社交/友 '李昂'·": "https://trello.com/c/bvHJ4KfT",
+    u"#项目(TV) '会议'·": "https://trello.com/c/zCPxwtEo",
 }
