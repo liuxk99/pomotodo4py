@@ -811,4 +811,7 @@ trello_dict = {
     u"#Programmer/DTC 'GNU-Environment'·": "https://trello.com/c/7EXGKTeY",
     u"#社交/友 '李昂'·": "https://trello.com/c/bvHJ4KfT",
     u"#项目(TV) '会议'·": "https://trello.com/c/zCPxwtEo",
+    u"#Book 'Bash Guide for Beginners'·": "https://trello.com/c/Q7gCgymI",
+    u"#生命/健康/医药 '购药'": "https://trello.com/c/7DXr9BNT",
+    u"#SDE(Android)/AAF 'framework-letv'·": "https://trello.com/c/QHxG4sJm",
 }
