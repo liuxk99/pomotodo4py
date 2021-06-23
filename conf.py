@@ -814,4 +814,6 @@ trello_dict = {
     u"#Book 'Bash Guide for Beginners'·": "https://trello.com/c/Q7gCgymI",
     u"#生命/健康/医药 '购药'": "https://trello.com/c/7DXr9BNT",
     u"#SDE(Android)/AAF 'framework-letv'·": "https://trello.com/c/QHxG4sJm",
+    u"#SW<os:linux>/App 'gnome-terminal'·": "https://trello.com/c/5uFVaOco",
+    u"#Programmer/PLang 'Bash·sample'·": "https://trello.com/c/HS77kQFx",
 }
