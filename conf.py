@@ -816,4 +816,6 @@ trello_dict = {
     u"#SDE(Android)/AAF 'framework-letv'·": "https://trello.com/c/QHxG4sJm",
     u"#SW<os:linux>/App 'gnome-terminal'·": "https://trello.com/c/5uFVaOco",
     u"#Programmer/PLang 'Bash·sample'·": "https://trello.com/c/HS77kQFx",
+    u"#Programmer/DTC 'IDE(Visual Studio)'·": "https://trello.com/c/x2wlrvKt",
+    u"#Programmer 'Project(id-editor)'·": "https://trello.com/c/pbuUcaVO",
 }
