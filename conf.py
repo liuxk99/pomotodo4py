@@ -818,4 +818,5 @@ trello_dict = {
     u"#Programmer/PLang 'Bash·sample'·": "https://trello.com/c/HS77kQFx",
     u"#Programmer/DTC 'IDE(Visual Studio)'·": "https://trello.com/c/x2wlrvKt",
     u"#Programmer 'Project(id-editor)'·": "https://trello.com/c/pbuUcaVO",
+    u"#Programmer/DTC 'copilot'·": "https://trello.com/c/YUlu00ji",
 }
