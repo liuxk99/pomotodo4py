@@ -819,4 +819,6 @@ trello_dict = {
     u"#Programmer/DTC 'IDE(Visual Studio)'·": "https://trello.com/c/x2wlrvKt",
     u"#Programmer 'Project(id-editor)'·": "https://trello.com/c/pbuUcaVO",
     u"#Programmer/DTC 'copilot'·": "https://trello.com/c/YUlu00ji",
+    u"#ADE(Python)/Lib 'pdf(camelot)'·": "https://trello.com/c/yODFuHew",
+    u"#人文/教育 '中考'·": "https://trello.com/c/KMGKUcb5",
 }
