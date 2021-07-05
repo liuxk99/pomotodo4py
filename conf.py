@@ -821,4 +821,5 @@ trello_dict = {
     u"#Programmer/DTC 'copilot'·": "https://trello.com/c/YUlu00ji",
     u"#ADE(Python)/Lib 'pdf(camelot)'·": "https://trello.com/c/yODFuHew",
     u"#人文/教育 '中考'·": "https://trello.com/c/KMGKUcb5",
+    u"#生活/游/景 '公园(北京温榆河公园)'·": "https://trello.com/c/8XCvcFKT",
 }
