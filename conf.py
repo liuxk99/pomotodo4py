@@ -822,4 +822,8 @@ trello_dict = {
     u"#ADE(Python)/Lib 'pdf(camelot)'·": "https://trello.com/c/yODFuHew",
     u"#人文/教育 '中考'·": "https://trello.com/c/KMGKUcb5",
     u"#生活/游/景 '公园(北京温榆河公园)'·": "https://trello.com/c/8XCvcFKT",
+    u"#SW/OS '鸿蒙OS'·": "https://trello.com/c/YDZpEwAq",
+    u"#SW/OS 'openharmony'·": "https://trello.com/c/wFLNw0Xl",
+    u"#生活/住/租房 '珠江丽景家园[60#-1-502]'·": "https://trello.com/c/00BYMVU7",
+    u"#生活/住/房 '珠江丽景家园[36#1-307]'·": "https://trello.com/c/t2aYIaPd",
 }
