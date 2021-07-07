@@ -13,7 +13,7 @@
 
 import requests
 
-API_URL = 'https://api.pomotodo.com/1/pomos/'
+API_URL = 'https://api.pomotodo.com/1/'
 
 
 def get_pomos(token, started_later_than_dt, started_earlier_than=None, manual=False):
@@ -25,5 +25,11 @@ def get_pomos(token, started_later_than_dt, started_earlier_than=None, manual=Fa
         parameters['manual'] = "true"
 
     print parameters
-    result = requests.get(API_URL, headers=headers, params=parameters)
+    result = requests.get(API_URL + "pomos/", headers=headers, params=parameters)
+    return result.json()
+
+
+def get_todos(token):
+    headers = {'Authorization': 'token ' + token}
+    result = requests.get(API_URL + "todos/", headers=headers)
     return result.json()

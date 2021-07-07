@@ -1,4 +1,15 @@
 # coding=utf-8
+from jproperties import Properties
+
+
+def load_token():
+    p = Properties()
+    with open("pomotodo.properties", "rb") as f:
+        p.load(f, "utf-8")
+
+    token = p.properties['token'].encode("utf-8")
+    return token
+
 
 trello_dict = {
     u"#时间管理 '日·": "https://trello.com/c/RIRS417M",
