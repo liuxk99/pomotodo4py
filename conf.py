@@ -826,4 +826,5 @@ trello_dict = {
     u"#SW/OS 'openharmony'·": "https://trello.com/c/wFLNw0Xl",
     u"#生活/住/租房 '珠江丽景家园[60#-1-502]'·": "https://trello.com/c/00BYMVU7",
     u"#生活/住/房 '珠江丽景家园[36#1-307]'·": "https://trello.com/c/t2aYIaPd",
+    u"#SW/OS 'kernel'·": "https://trello.com/c/lK3HnUvZ",
 }
