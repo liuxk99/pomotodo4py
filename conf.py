@@ -839,4 +839,7 @@ trello_dict = {
     u"#生活/住/房 '珠江丽景家园[36#1-307]'·": "https://trello.com/c/t2aYIaPd",
     u"#SW/OS 'kernel'·": "https://trello.com/c/lK3HnUvZ",
     u"#Programmer/DTC 'GitHub Copilot'·": "https://trello.com/c/YUlu00ji",
+    u"#产品/应用 'trello4py'·": "https://trello.com/c/MT88pzXt",
+    u"#SW/App 'du4py'·": "https://trello.com/c/8N6j35tG",
+    u"#社交/亲/子(刘枢鸿)/教育 '数学'·": "https://trello.com/c/Ui4cNIR0",
 }
