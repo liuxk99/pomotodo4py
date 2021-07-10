@@ -842,4 +842,7 @@ trello_dict = {
     u"#产品/应用 'trello4py'·": "https://trello.com/c/MT88pzXt",
     u"#SW/App 'du4py'·": "https://trello.com/c/8N6j35tG",
     u"#社交/亲/子(刘枢鸿)/教育 '数学'·": "https://trello.com/c/Ui4cNIR0",
+    u"#Programmer/DTC/CM 'gitee'·": "https://trello.com/c/zRJzQe5g",
+    u"#人文(社会) '广告'·": "https://trello.com/c/mlthX6Il",
+    u"#生活/医 '医院(北京潞河医院)'·": "https://trello.com/c/jZiqjmnu",
 }
